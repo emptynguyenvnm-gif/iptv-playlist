@@ -1,0 +1,102 @@
+
+name: Check IPTV playlist
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 3 * * *"
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download playlist repository
+        uses: actions/checkout@v4
+
+      - name: Check stream URLs
+        run: |
+          python - <<'PY'
+          import os
+          import urllib.request
+          import urllib.error
+          from urllib.parse import urlsplit
+
+          filename = "playlist.m3u"
+          urls = []
+          referrer = None
+
+          with open(filename, encoding="utf-8-sig") as f:
+              for line_no, raw in enumerate(f, 1):
+                  line = raw.strip()
+
+                  if line.startswith("#EXTVLCOPT:http-referrer="):
+                      referrer = line.split("=", 1)[1].strip()
+                      continue
+
+                  if not line or line.startswith("#"):
+                      continue
+
+                  if line.startswith(("http://", "https://")):
+                      urls.append((line_no, line, referrer))
+                      referrer = None
+
+          unique = {}
+          for item in urls:
+              unique.setdefault(item[1], item)
+
+          failed = []
+          checked = 0
+
+          def safe_url(url):
+              p = urlsplit(url)
+              return f"{p.scheme}://{p.netloc}{p.path}"
+
+          for line_no, url, referer in unique.values():
+              headers = {
+                  "User-Agent": "Mozilla/5.0 IPTV-Playlist-Monitor",
+                  "Range": "bytes=0-0",
+              }
+              if referer:
+                  headers["Referer"] = referer
+
+              req = urllib.request.Request(url, headers=headers)
+              try:
+                  with urllib.request.urlopen(req, timeout=15) as r:
+                      status = r.status
+                  if not 200 <= status < 400:
+                      failed.append((line_no, url, str(status)))
+                  checked += 1
+              except urllib.error.HTTPError as e:
+                  failed.append((line_no, url, str(e.code)))
+                  checked += 1
+              except Exception as e:
+                  reason = type(e).__name__
+                  failed.append((line_no, url, reason))
+                  checked += 1
+
+          summary = os.environ["GITHUB_STEP_SUMMARY"]
+          with open(summary, "a", encoding="utf-8") as out:
+              out.write("# IPTV playlist check\n\n")
+              out.write(f"- Unique URLs checked: {checked}\n")
+              out.write(f"- URLs needing review: {len(failed)}\n\n")
+
+              if failed:
+                  out.write("## URLs needing review\n\n")
+                  out.write("| Line | URL (query hidden) | Result |\n")
+                  out.write("|---:|---|---|\n")
+                  for line_no, url, result in failed:
+                      out.write(
+                          f"| {line_no} | `{safe_url(url)}` | {result} |\n"
+                      )
+              else:
+                  out.write("No URL errors detected in this run.\n")
+
+          print(f"Checked {checked} unique URLs.")
+          print(f"URLs needing review: {len(failed)}")
+
+          if failed:
+              raise SystemExit(1)
+          PY
