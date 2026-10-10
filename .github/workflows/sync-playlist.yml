@@ -1,35 +1,31 @@
-name: Sync IPTV Playlist
+                      i = j + 1 if url else i + 1
+                      continue
 
-on:
-  schedule:
-    - cron: "*/15 * * * *"
-  workflow_dispatch:
+                  out.append(line.rstrip())
+                  out.extend(x.rstrip() for x in src[i + 1:j])
+                  if url:
+                      out.append(src[j].rstrip())
+                      real_channels += 1
+                      i = j + 1
+                  else:
+                      i += 1
+                  continue
 
-permissions:
-  contents: write
+              out.append(line.rstrip())
+              i += 1
 
-concurrency:
-  group: sync-playlist
-  cancel-in-progress: false
+          if not header_seen:
+              print('::error::Playlist không có dòng #EXTM3U')
+              sys.exit(1)
+          if real_channels < 1:
+              print('::error::Không tìm thấy kênh hợp lệ; giữ nguyên playlist cũ')
+              sys.exit(1)
 
-jobs:
-  sync:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Download and validate playlist
-        shell: bash
-        run: |
-          set -euo pipefail
-          curl -fsSL --max-time 30 \
-            "https://thtt.pages.dev/tttt.m3u" \
-            -o /tmp/playlist.m3u
-
-          grep -q '^#EXTM3U' /tmp/playlist.m3u
-          grep -q '^#EXTINF:' /tmp/playlist.m3u
-          ! grep -qi 'no-signal' /tmp/playlist.m3u
+          Path('/tmp/playlist.m3u').write_text(
+              '\n'.join(out).rstrip() + '\n', encoding='utf-8'
+          )
+          print(f'Playlist hợp lệ: {real_channels} kênh thực')
+          PY
 
       - name: Update repository playlist
         shell: bash
@@ -37,10 +33,15 @@ jobs:
           set -euo pipefail
           if ! cmp -s /tmp/playlist.m3u playlist.m3u; then
             cp /tmp/playlist.m3u playlist.m3u
-            git config user.name "github-actions[bot]"
-            git config user.email \
-              "41898282+github-actions[bot]@users.noreply.github.com"
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
             git add playlist.m3u
-            git commit -m "Update IPTV playlist" || exit 0
+            if git diff --cached --quiet; then
+              echo 'Không có thay đổi.'
+              exit 0
+            fi
+            git commit -m 'Update IPTV playlist'
             git push
+          else
+            echo 'Playlist không đổi.'
           fi
