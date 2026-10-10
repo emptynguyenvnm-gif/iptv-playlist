@@ -16,33 +16,46 @@ concurrency:
 jobs:
   sync:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Download source playlist
         shell: bash
         run: |
           set -euo pipefail
-          curl --fail --silent --show-error --location --retry 2 --max-time 30 \
+
+          curl --fail --silent --show-error --location \
+            --retry 2 \
+            --max-time 60 \
             'https://thtt.pages.dev/tttt.m3u' \
             --output /tmp/source.m3u
+
           test -s /tmp/source.m3u
+          echo "Đã tải playlist nguồn."
 
       - name: Clean and validate playlist
         shell: bash
         run: |
           set -euo pipefail
+
           python3 - <<'PY'
           from pathlib import Path
           import sys
 
-          source = Path('/tmp/source.m3u').read_text(
-              encoding='utf-8-sig', errors='replace'
+          source_path = Path('/tmp/source.m3u')
+          source = source_path.read_text(
+              encoding='utf-8-sig',
+              errors='replace'
           ).splitlines()
 
           if not any(line.strip() == '#EXTM3U' for line in source):
-              sys.exit('::error::Nguồn không có #EXTM3U; giữ nguyên playlist cũ.')
+              sys.exit(
+                  '::error::Nguồn không có #EXTM3U; dừng để tránh ghi đè playlist.'
+              )
 
           output = ['#EXTM3U']
           count = 0
@@ -56,23 +69,33 @@ jobs:
                   continue
 
               j = i + 1
+
               while j < len(source):
                   candidate = source[j].strip()
+
                   if candidate.startswith('#EXTINF:'):
                       break
+
                   if candidate and not candidate.startswith('#'):
                       break
+
                   j += 1
 
               url = (
                   source[j].strip()
-                  if j < len(source) and not source[j].strip().startswith('#')
+                  if j < len(source)
+                  and not source[j].strip().startswith('#')
                   else ''
               )
 
-              if url and 'no-signal' not in (current + ' ' + url).lower():
+              if (
+                  url
+                  and 'no-signal' not in (current + ' ' + url).lower()
+              ):
                   output.append(source[i].rstrip())
-                  output.extend(line.rstrip() for line in source[i + 1:j])
+                  output.extend(
+                      line.rstrip() for line in source[i + 1:j]
+                  )
                   output.append(url)
                   count += 1
                   i = j + 1
@@ -80,11 +103,15 @@ jobs:
                   i = j + 1 if url else i + 1
 
           if count < 1:
-              sys.exit('::error::Không có kênh hợp lệ; giữ nguyên playlist cũ.')
+              sys.exit(
+                  '::error::Không tìm thấy kênh hợp lệ; giữ playlist cũ.'
+              )
 
           Path('/tmp/playlist.m3u').write_text(
-              '\n'.join(output) + '\n', encoding='utf-8'
+              '\n'.join(output) + '\n',
+              encoding='utf-8'
           )
+
           print(f'Playlist hợp lệ: {count} kênh.')
           PY
 
@@ -92,6 +119,7 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
+
           export TZ=Asia/Ho_Chi_Minh
           timestamp="$(date '+%d/%m %H:%M')"
 
@@ -104,28 +132,33 @@ jobs:
           lines = path.read_text(encoding='utf-8').splitlines()
 
           if not lines or lines[0].strip() != '#EXTM3U':
-              raise SystemExit('Playlist không hợp lệ: thiếu #EXTM3U.')
+              raise SystemExit(
+                  'Playlist không hợp lệ: thiếu #EXTM3U.'
+              )
 
           marker = 'https://freem3u.xyz/static/no-signal/low.m3u8'
 
-          # Xóa mục Updated cũ và URL no-signal cũ nếu có.
+          # Xóa mục Updated cũ nếu có.
           cleaned = []
-          skip_next_url = False
+          skip_updated_url = False
 
           for line in lines[1:]:
               stripped = line.strip()
 
-              if stripped.startswith('#EXTINF:') and 'group-title="Updated ' in stripped:
-                  skip_next_url = True
+              if (
+                  stripped.startswith('#EXTINF:')
+                  and 'group-title="Updated ' in stripped
+              ):
+                  skip_updated_url = True
                   continue
 
-              if skip_next_url:
+              if skip_updated_url:
                   if not stripped or stripped.startswith('#'):
                       continue
-                  skip_next_url = False
+                  skip_updated_url = False
                   continue
 
-              if marker in stripped:
+              if stripped == marker:
                   continue
 
               cleaned.append(line)
@@ -136,7 +169,12 @@ jobs:
           ]
 
           result = [lines[0], *entry, *cleaned]
-          path.write_text('\n'.join(result) + '\n', encoding='utf-8')
+
+          path.write_text(
+              '\n'.join(result) + '\n',
+              encoding='utf-8'
+          )
+
           print(f'Đã thêm thời gian cập nhật: {timestamp}')
           PY
 
@@ -145,14 +183,27 @@ jobs:
         run: |
           set -euo pipefail
 
-          if cmp -s /tmp/playlist.m3u playlist.m3u; then
+          git config user.name 'github-actions[bot]'
+          git config user.email \
+            '41898282+github-actions[bot]@users.noreply.github.com'
+
+          # Lấy trạng thái main mới nhất từ GitHub.
+          git fetch origin main
+
+          # Giữ playlist vừa xử lý trong file tạm.
+          cp /tmp/playlist.m3u /tmp/playlist-final.m3u
+
+          # Đồng bộ thư mục làm việc với main mới nhất.
+          git reset --hard origin/main
+
+          # Áp dụng playlist mới lên nhánh mới nhất.
+          cp /tmp/playlist-final.m3u playlist.m3u
+
+          if git diff --quiet -- playlist.m3u; then
             echo 'Playlist không thay đổi.'
             exit 0
           fi
 
-          cp /tmp/playlist.m3u playlist.m3u
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add playlist.m3u
 
           if git diff --cached --quiet; then
@@ -161,4 +212,20 @@ jobs:
           fi
 
           git commit -m 'Update IPTV playlist'
-          git push
+
+          # Thử push; nếu main thay đổi đồng thời thì tải lại và thử lại.
+          for attempt in 1 2 3; do
+            if git push origin HEAD:main; then
+              echo 'Đẩy playlist lên GitHub thành công.'
+              exit 0
+            fi
+
+            if [ "$attempt" -eq 3 ]; then
+              echo '::error::Push thất bại sau 3 lần thử.'
+              exit 1
+            fi
+
+            echo "Push bị từ chối; đồng bộ lại lần $attempt..."
+            git fetch origin main
+            git rebase origin/main
+          done
