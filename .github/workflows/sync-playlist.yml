@@ -1,0 +1,46 @@
+name: Sync IPTV Playlist
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-playlist
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download and validate playlist
+        shell: bash
+        run: |
+          set -euo pipefail
+          curl -fsSL --max-time 30 \
+            "https://thtt.pages.dev/tttt.m3u" \
+            -o /tmp/playlist.m3u
+
+          grep -q '^#EXTM3U' /tmp/playlist.m3u
+          grep -q '^#EXTINF:' /tmp/playlist.m3u
+          ! grep -qi 'no-signal' /tmp/playlist.m3u
+
+      - name: Update repository playlist
+        shell: bash
+        run: |
+          set -euo pipefail
+          if ! cmp -s /tmp/playlist.m3u playlist.m3u; then
+            cp /tmp/playlist.m3u playlist.m3u
+            git config user.name "github-actions[bot]"
+            git config user.email \
+              "41898282+github-actions[bot]@users.noreply.github.com"
+            git add playlist.m3u
+            git commit -m "Update IPTV playlist" || exit 0
+            git push
+          fi
