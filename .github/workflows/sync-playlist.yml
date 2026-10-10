@@ -1,47 +1,94 @@
-                      i = j + 1 if url else i + 1
-                      continue
+name: Sync IPTV Playlist
 
-                  out.append(line.rstrip())
-                  out.extend(x.rstrip() for x in src[i + 1:j])
-                  if url:
-                      out.append(src[j].rstrip())
-                      real_channels += 1
-                      i = j + 1
-                  else:
-                      i += 1
-                  continue
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '*/15 * * * *'
 
-              out.append(line.rstrip())
-              i += 1
+permissions:
+  contents: write
 
-          if not header_seen:
-              print('::error::Playlist không có dòng #EXTM3U')
-              sys.exit(1)
-          if real_channels < 1:
-              print('::error::Không tìm thấy kênh hợp lệ; giữ nguyên playlist cũ')
-              sys.exit(1)
+concurrency:
+  group: sync-playlist
+  cancel-in-progress: false
 
-          Path('/tmp/playlist.m3u').write_text(
-              '\n'.join(out).rstrip() + '\n', encoding='utf-8'
-          )
-          print(f'Playlist hợp lệ: {real_channels} kênh thực')
-          PY
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Update repository playlist
+      - name: Download source playlist
         shell: bash
         run: |
           set -euo pipefail
-          if ! cmp -s /tmp/playlist.m3u playlist.m3u; then
-            cp /tmp/playlist.m3u playlist.m3u
-            git config user.name 'github-actions[bot]'
-            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-            git add playlist.m3u
-            if git diff --cached --quiet; then
-              echo 'Không có thay đổi.'
-              exit 0
-            fi
-            git commit -m 'Update IPTV playlist'
-            git push
-          else
-            echo 'Playlist không đổi.'
+          curl --fail --silent --show-error --location --max-time 30 \
+            'https://thtt.pages.dev/tttt.m3u' \
+            --output /tmp/source.m3u
+          test -s /tmp/source.m3u
+
+      - name: Clean and validate playlist
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import sys
+
+          source = Path('/tmp/source.m3u').read_text(
+              encoding='utf-8-sig', errors='replace'
+          ).splitlines()
+          if not any(line.strip() == '#EXTM3U' for line in source):
+              sys.exit('::error::Nguồn không có #EXTM3U; giữ nguyên bản cũ.')
+
+          output = ['#EXTM3U']
+          count = 0
+          i = 0
+          while i < len(source):
+              current = source[i].strip()
+              if not current.startswith('#EXTINF:'):
+                  i += 1
+                  continue
+
+              j = i + 1
+              while j < len(source):
+                  candidate = source[j].strip()
+                  if candidate.startswith('#EXTINF:'):
+                      break
+                  if candidate and not candidate.startswith('#'):
+                      break
+                  j += 1
+
+              url = source[j].strip() if j < len(source) and not source[j].strip().startswith('#') else ''
+              if url and 'no-signal' not in (current + ' ' + url).lower():
+                  output.append(source[i].rstrip())
+                  output.extend(line.rstrip() for line in source[i + 1:j])
+                  output.append(url)
+                  count += 1
+                  i = j + 1
+              else:
+                  i = j + 1 if url else i + 1
+
+          if count < 1:
+              sys.exit('::error::Không có kênh hợp lệ; giữ nguyên playlist cũ.')
+
+          Path('/tmp/playlist.m3u').write_text(
+              '\n'.join(output) + '\n', encoding='utf-8'
+          )
+          print(f'Playlist hợp lệ: {count} kênh.')
+          PY
+
+      - name: Commit and push only when changed
+        shell: bash
+        run: |
+          set -euo pipefail
+          if cmp -s /tmp/playlist.m3u playlist.m3u; then
+            echo 'Playlist không thay đổi.'
+            exit 0
           fi
+          cp /tmp/playlist.m3u playlist.m3u
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add playlist.m3u
+          git commit -m 'Update IPTV playlist'
+          git push
