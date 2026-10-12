@@ -1,16 +1,16 @@
 #EXTM3U
-#EXTINF:-1 group-title="Updated 13/10 05:26", Updated 13/10 05:26
+#EXTINF:-1 group-title="Updated 13/10 05:41", Updated 13/10 05:41
 https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/9e9d18ccd36d42462fc896e22de890c2.png" group-title="Vua Sân Cỏ TV" , 07:00 13/10 ⚽ Red Bull Bragantino vs Cruzeiro _ MG (Doanh Chính)
 https://cdn1-global.ebaclofen.org/live/pro3/index.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/296c68ac5ad3ff621c10c6ebfb9954ca.png" group-title="Vua Sân Cỏ TV" , 14:45 13/10 ⚽ Newcastle Jets vs Gamba Osaka (Lưu Bang)
 https://cdn-global.ebaclofen.org/vsc/vsc-hiep-si-tan/index.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/7d6fa50ea67cde7d66612a8189897ba5.png" group-title="Vua Sân Cỏ TV" , 17:00 13/10 ⚽ Kyoto Sanga vs Ratchaburi FC (Huyền Diệp)
-https://cdn-global.ebaclofen.org/vsc/jonhny5/index.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/6f05c460789939ac83282bd0686446f1.png" group-title="Vua Sân Cỏ TV" , 17:00 13/10 ⚽ Pohang Steelers vs Johor Darul Ta'zim FC (Trần Cảnh)
 https://cdn-global.ebaclofen.org/vsc/jonhny6/index.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/c4e143e537412003565cdb7c2d212538.png" group-title="Vua Sân Cỏ TV" , 17:00 13/10 ⚽ Shanghai Port vs Daejeon Hana Citizen (Tôn Quyền)
 https://cdn1-global.ebaclofen.org/live/pro4/index.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/7d6fa50ea67cde7d66612a8189897ba5.png" group-title="Vua Sân Cỏ TV" , 17:00 13/10 ⚽ Kyoto Sanga vs Ratchaburi FC (Huyền Diệp)
+https://cdn-global.ebaclofen.org/vsc/jonhny5/index.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/f3dde7370cf875e4e657b4331b1b4a31.png" group-title="Vua Sân Cỏ TV" , 19:15 13/10 ⚽ Cong An Ha Noi FC vs Kashima Antlers (Trần Hoàng)
 https://cdn1-global.ebaclofen.org/live/pro6/index.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/21649c3d173c8f4ec9d526432ad9f088.png" group-title="Vua Sân Cỏ TV" , 20:45 13/10 ⚽ East Bengal FC vs Al Shorta (Tào Duệ)
@@ -337,6 +337,14 @@ https://wtyi0525.edgemaxcdn.org/live/x1-hd-1111/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10077.png" group-title="Sao Kê TV" , 07:30 14/10 ⚽ Boca Juniors vs Vasco da Gama (Nếp Cẩm) [hls]
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/x4-hd-1111/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/jw2r09hlkldrz84/image/small" group-title="Xôi Lạc Z TV" , 🟢 04:30 13/10 ⚽ Gimnasia Mendoza vs Newell Old Boys (NEMO)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel17.flv
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/jw2r09hlkldrz84/image/small" group-title="Xôi Lạc Z TV" , 🟢 04:30 13/10 ⚽ Gimnasia Mendoza vs Newell Old Boys (HD NEMO)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.domaincdn.cc/livecdn/channel-17.flv?auth_key=3000001791844531-0-0-6b25fceb2aee22f3e5bc782b089cfabf
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/p4jwq2ghjj5m0ve/image/small" group-title="Xôi Lạc Z TV" , 🟢 05:30 13/10 ⚽ Chapecoense SC vs Atl. Paranaense (HIRO)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
@@ -344,31 +352,15 @@ https://live2.jorvakstreamcache.com/live/channel14.flv
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/p4jwq2ghjj5m0ve/image/small" group-title="Xôi Lạc Z TV" , 🟢 05:30 13/10 ⚽ Chapecoense SC vs Atl. Paranaense (HD HIRO)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-14.flv?auth_key=3000001791843637-0-0-9d5639975a745e62db1d89f4512b5ca9
+https://live2.domaincdn.cc/livecdn/channel-14.flv?auth_key=3000001791844555-0-0-14a1dab7cb50c63c5a66af550d9f6090
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/gy0or5jhkw1qwzv/image/small" group-title="Xôi Lạc Z TV" , 🟢 05:30 13/10 ⚽ Criciuma vs America MG (LOGAN)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel23.flv
+https://live2.pro2cdnlive.com/live/channel23.flv
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/gy0or5jhkw1qwzv/image/small" group-title="Xôi Lạc Z TV" , 🟢 05:30 13/10 ⚽ Criciuma vs America MG (HD LOGAN)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.pro2cdnlive.com/live/channel-23.flv
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/jw2r09hlkldrz84/image/small" group-title="Xôi Lạc Z TV" , 🟢 04:30 13/10 ⚽ Gimnasia Mendoza vs Newell Old Boys (NEMO)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.pro2cdnlive.com/live/channel17.flv
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/jw2r09hlkldrz84/image/small" group-title="Xôi Lạc Z TV" , 🟢 04:30 13/10 ⚽ Gimnasia Mendoza vs Newell Old Boys (HD NEMO)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-17.flv?auth_key=3000001791843733-0-0-034ec02472193f5d5b9948920b7880cf
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/pxwrxlhg975ryk0/image/small" group-title="Xôi Lạc Z TV" , 07:00 13/10 ⚽ RB Bragantino vs Cruzeiro (OLER)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live1.quickscoreboardz.com/live/channel28.flv?wsSecret=d440be71c2adb8ee41d3853112677a8b&wsABSTime=1791886970
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/pxwrxlhg975ryk0/image/small" group-title="Xôi Lạc Z TV" , 07:00 13/10 ⚽ RB Bragantino vs Cruzeiro (HD OLER)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-28.flv?auth_key=3000001791843773-0-0-d9418b1405588dea14767ae95ed42a97
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/9vjxm8xtoezq6od/image/small" group-title="Xôi Lạc Z TV" , 🟡 06:00 13/10 🏀 Atlanta Hawks vs Oklahoma City Thunder (TOMMY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
@@ -376,15 +368,23 @@ https://live2.jorvakstreamcache.com/live/channel29.flv
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/9vjxm8xtoezq6od/image/small" group-title="Xôi Lạc Z TV" , 🟡 06:00 13/10 🏀 Atlanta Hawks vs Oklahoma City Thunder (HD TOMMY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-29.flv?auth_key=3000001791843798-0-0-2efa5d9a983db7cc98d834b6e7a06f0b
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/e4wyrn1t16oq86p/image/small" group-title="Xôi Lạc Z TV" , 06:30 13/10 🏀 New York Knicks vs Minnesota Timberwolves (ALAN)
+https://live2.domaincdn.cc/livecdn/channel-29.flv?auth_key=3000001791844675-0-0-da202b8cc165eaefede3a5902bf925bc
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/pxwrxlhg975ryk0/image/small" group-title="Xôi Lạc Z TV" , 07:00 13/10 ⚽ RB Bragantino vs Cruzeiro (OLER)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live1.quickscoreboardz.com/live/channel28.flv?wsSecret=2821198b56617be9b5b74300d0c9d36f&wsABSTime=1791887878
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/pxwrxlhg975ryk0/image/small" group-title="Xôi Lạc Z TV" , 07:00 13/10 ⚽ RB Bragantino vs Cruzeiro (HD OLER)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.domaincdn.cc/livecdn/channel-28.flv?auth_key=3000001791844680-0-0-6e6ec26c1fc8fc90fa4f4a91907673f9
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/e4wyrn1t16oq86p/image/small" group-title="Xôi Lạc Z TV" , 🟡 06:30 13/10 🏀 New York Knicks vs Minnesota Timberwolves (ALAN)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.jorvakstreamcache.com/live/channel25.flv
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/e4wyrn1t16oq86p/image/small" group-title="Xôi Lạc Z TV" , 06:30 13/10 🏀 New York Knicks vs Minnesota Timberwolves (HD ALAN)
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/e4wyrn1t16oq86p/image/small" group-title="Xôi Lạc Z TV" , 🟡 06:30 13/10 🏀 New York Knicks vs Minnesota Timberwolves (HD ALAN)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-25.flv?auth_key=3000001791843839-0-0-62915a5b6063cab6d6ac1daa78736646
+https://live2.domaincdn.cc/livecdn/channel-25.flv?auth_key=3000001791844721-0-0-432eabc0b9082639b555280c2563d4a0
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/z8yomovtj1jq0j6/image/small" group-title="Xôi Lạc Z TV" , 08:00 13/10 🏀 Utah Jazz vs San Antonio Spurs (KOBE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
@@ -392,7 +392,7 @@ https://live2.jorvakstreamcache.com/live/channel27.flv
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/z8yomovtj1jq0j6/image/small" group-title="Xôi Lạc Z TV" , 08:00 13/10 🏀 Utah Jazz vs San Antonio Spurs (HD KOBE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-27.flv?auth_key=3000001791843868-0-0-285646755011f18b95d03319af4cf9bb
+https://live2.domaincdn.cc/livecdn/channel-27.flv?auth_key=3000001791844726-0-0-79d001a78189fc3a8a7fe15ba75c709b
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/318q6ntog38mo9j/image/small" group-title="Xôi Lạc Z TV" , 09:05 13/10 🏀 Mineros de Zacatecas vs Diablos Rojos del México (ALAN)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
@@ -400,7 +400,7 @@ https://live2.jorvakstreamcache.com/live/channel25.flv
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/318q6ntog38mo9j/image/small" group-title="Xôi Lạc Z TV" , 09:05 13/10 🏀 Mineros de Zacatecas vs Diablos Rojos del México (HD ALAN)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-25.flv?auth_key=3000001791843874-0-0-768009b1d2adb82eba68446c9d9b727a
+https://live2.domaincdn.cc/livecdn/channel-25.flv?auth_key=3000001791844738-0-0-e913956857c99cd9080de333fac85880
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/jw2r02tld6oqz84/image/small" group-title="Xôi Lạc Z TV" , 16:00 13/10 🏀 Bataan Risers vs San Juan Knights (KOBE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
@@ -549,23 +549,23 @@ https://live05.zhwpg.app/live/87547578_tsc.flv
 https://live05.zhwpg.app/live/87547578_tsc.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/4970b9a9a215c78759a6bb84ecaa3701.png!w80" group-title="Cola TV" , 🟢 05:30 13/10 ⚽ CLB Chapecoense SC vs Athletico-PR (BLV MOUNTAIN DEW) [hls 2]
 https://live05.miekgo.app/live/87547578_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png!w80" group-title="Cola TV" , 🟡 06:00 13/10 🏀 Atlanta Hawks vs Oklahoma City Thunder (BLV POCARI) [flv]
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png!w80" group-title="Cola TV" , 🟢 06:00 13/10 🏀 Atlanta Hawks vs Oklahoma City Thunder (BLV POCARI) [flv]
 https://live05.zhwpg.app/live/19919577_tsc.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png!w80" group-title="Cola TV" , 🟡 06:00 13/10 🏀 Atlanta Hawks vs Oklahoma City Thunder (BLV POCARI) [hls]
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png!w80" group-title="Cola TV" , 🟢 06:00 13/10 🏀 Atlanta Hawks vs Oklahoma City Thunder (BLV POCARI) [hls]
 https://live05.zhwpg.app/live/19919577_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png!w80" group-title="Cola TV" , 🟡 06:00 13/10 🏀 Atlanta Hawks vs Oklahoma City Thunder (BLV POCARI) [hls 2]
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png!w80" group-title="Cola TV" , 🟢 06:00 13/10 🏀 Atlanta Hawks vs Oklahoma City Thunder (BLV POCARI) [hls 2]
 https://live05.miekgo.app/live/19919577_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/ac18ecfecac3af349477383866cf8ef5.png!w80" group-title="Cola TV" , 🟡 06:00 13/10 🏀 Washington Wizards vs Brooklyn Nets (BLV ROCKSTAR) [flv]
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/ac18ecfecac3af349477383866cf8ef5.png!w80" group-title="Cola TV" , 🟢 06:00 13/10 🏀 Washington Wizards vs Brooklyn Nets (BLV ROCKSTAR) [flv]
 https://live05.zhwpg.app/live/82054853_tsc.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/ac18ecfecac3af349477383866cf8ef5.png!w80" group-title="Cola TV" , 🟡 06:00 13/10 🏀 Washington Wizards vs Brooklyn Nets (BLV ROCKSTAR) [hls]
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/ac18ecfecac3af349477383866cf8ef5.png!w80" group-title="Cola TV" , 🟢 06:00 13/10 🏀 Washington Wizards vs Brooklyn Nets (BLV ROCKSTAR) [hls]
 https://live05.zhwpg.app/live/82054853_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/ac18ecfecac3af349477383866cf8ef5.png!w80" group-title="Cola TV" , 🟡 06:00 13/10 🏀 Washington Wizards vs Brooklyn Nets (BLV ROCKSTAR) [hls 2]
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/ac18ecfecac3af349477383866cf8ef5.png!w80" group-title="Cola TV" , 🟢 06:00 13/10 🏀 Washington Wizards vs Brooklyn Nets (BLV ROCKSTAR) [hls 2]
 https://live05.miekgo.app/live/82054853_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/49f8b0ef2ed529b44dba6ebb99a0d5ff.png!w80" group-title="Cola TV" , 06:30 13/10 🏀 New York Knicks vs Minnesota Timberwolves (BLV Cozy) [flv]
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/49f8b0ef2ed529b44dba6ebb99a0d5ff.png!w80" group-title="Cola TV" , 🟡 06:30 13/10 🏀 New York Knicks vs Minnesota Timberwolves (BLV Cozy) [flv]
 https://live05.zhwpg.app/live/87379114_tsc.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/49f8b0ef2ed529b44dba6ebb99a0d5ff.png!w80" group-title="Cola TV" , 06:30 13/10 🏀 New York Knicks vs Minnesota Timberwolves (BLV Cozy) [hls]
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/49f8b0ef2ed529b44dba6ebb99a0d5ff.png!w80" group-title="Cola TV" , 🟡 06:30 13/10 🏀 New York Knicks vs Minnesota Timberwolves (BLV Cozy) [hls]
 https://live05.zhwpg.app/live/87379114_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/49f8b0ef2ed529b44dba6ebb99a0d5ff.png!w80" group-title="Cola TV" , 06:30 13/10 🏀 New York Knicks vs Minnesota Timberwolves (BLV Cozy) [hls 2]
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/49f8b0ef2ed529b44dba6ebb99a0d5ff.png!w80" group-title="Cola TV" , 🟡 06:30 13/10 🏀 New York Knicks vs Minnesota Timberwolves (BLV Cozy) [hls 2]
 https://live05.miekgo.app/live/87379114_tsc.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/9e9d18ccd36d42462fc896e22de890c2.png!w80" group-title="Cola TV" , 07:00 13/10 ⚽ Bragantino vs CLB Cruzeiro (BLV FANTA) [flv]
 https://live05.zhwpg.app/live/16226575_tsc.flv
@@ -609,72 +609,288 @@ https://live05.zhwpg.app/live/75748097_tsc.flv
 https://live05.zhwpg.app/live/75748097_tsc.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/7d6fa50ea67cde7d66612a8189897ba5.png!w80" group-title="Cola TV" , 17:00 13/10 ⚽ Kyoto Sanga vs Ratchaburi (BLV SPRITE) [hls 2]
 https://live05.miekgo.app/live/75748097_tsc.m3u8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/18814df799b100327fcc0974dfcfab3e.png" group-title="Sút Bóng TV" , 🟢 01:15 13/10 ⚽ Al Nassr vs Neftchi Fergana (THẠCH TÚ)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=b068e8269c275bbb28894d52babccf4c&txTime=6acd9c5d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/18814df799b100327fcc0974dfcfab3e.png" group-title="Sút Bóng TV" , 🟢 01:15 13/10 ⚽ Al Nassr vs Neftchi Fergana (SAO LA)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=bf454d3f641392c12754ce3026b66750&txTime=6acd9c5d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/18814df799b100327fcc0974dfcfab3e.png" group-title="Sút Bóng TV" , 🟢 01:15 13/10 ⚽ Al Nassr vs Neftchi Fergana (LÃO LÂM)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1791841865-0-0-04191a03dae7adc0844f19d7fa1bb6e8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/0c2377857a4928772da056b849208bbb.png" group-title="Sút Bóng TV" , 🟢 01:15 13/10 ⚽ Al-Gharafa SC vs Esteghlal Tehran (BLV VOI)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1791839991-0-0-e25f82c583bf8cdd5849569bdae6b33a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/0c2377857a4928772da056b849208bbb.png" group-title="Sút Bóng TV" , 🟢 01:15 13/10 ⚽ Al-Gharafa SC vs Esteghlal Tehran (KINH VÂN)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niues.live/live/stream-623743_lhd.m3u8?auth_key=1791839969-0-0-096e6195ebc1b8b6917ea44c74d0e76a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/0c2377857a4928772da056b849208bbb.png" group-title="Sút Bóng TV" , 🟢 01:15 13/10 ⚽ Al-Gharafa SC vs Esteghlal Tehran (BLV VOI)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1791839991-0-0-e25f82c583bf8cdd5849569bdae6b33a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/0c2377857a4928772da056b849208bbb.png" group-title="Sút Bóng TV" , 🟢 01:15 13/10 ⚽ Al-Gharafa SC vs Esteghlal Tehran (KINH VÂN)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niues.live/live/stream-623743_lhd.m3u8?auth_key=1791839969-0-0-096e6195ebc1b8b6917ea44c74d0e76a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/0c2377857a4928772da056b849208bbb.png" group-title="Sút Bóng TV" , 🟢 01:15 13/10 ⚽ Al-Gharafa SC vs Esteghlal Tehran (BLV VOI)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1791839991-0-0-e25f82c583bf8cdd5849569bdae6b33a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/0c2377857a4928772da056b849208bbb.png" group-title="Sút Bóng TV" , 🟢 01:15 13/10 ⚽ Al-Gharafa SC vs Esteghlal Tehran (KINH VÂN)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niues.live/live/stream-623743_lhd.m3u8?auth_key=1791839969-0-0-096e6195ebc1b8b6917ea44c74d0e76a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/0c2377857a4928772da056b849208bbb.png" group-title="Sút Bóng TV" , 🟢 01:15 13/10 ⚽ Al-Gharafa SC vs Esteghlal Tehran (BLV VOI)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1791839991-0-0-e25f82c583bf8cdd5849569bdae6b33a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/0c2377857a4928772da056b849208bbb.png" group-title="Sút Bóng TV" , 🟢 01:15 13/10 ⚽ Al-Gharafa SC vs Esteghlal Tehran (KINH VÂN)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niues.live/live/stream-623743_lhd.m3u8?auth_key=1791839969-0-0-096e6195ebc1b8b6917ea44c74d0e76a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/91ec58ca71d7660d1a41d140752fdd14.png" group-title="Sút Bóng TV" , 🟢 01:45 13/10 ⚽ Torino vs Udinese (BLV A WIN)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1791841445-0-0-6012abcf590d56acf5d6281b893c9741
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/91ec58ca71d7660d1a41d140752fdd14.png" group-title="Sút Bóng TV" , 🟢 01:45 13/10 ⚽ Torino vs Udinese (VINFAST)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://sutbong-tv.net/wp-json/soco/v1/stream/resolve?post_id=82014&blv=617313
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/91ec58ca71d7660d1a41d140752fdd14.png" group-title="Sút Bóng TV" , 🟢 01:45 13/10 ⚽ Torino vs Udinese (CACAO)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1791841419-0-0-a6dd9e213480fd62267e367a2ec933c8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/91ec58ca71d7660d1a41d140752fdd14.png" group-title="Sút Bóng TV" , 🟢 01:45 13/10 ⚽ Torino vs Udinese (MP3)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://sutbong-tv.net/wp-json/soco/v1/stream/resolve?post_id=82014&blv=621840
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/91ec58ca71d7660d1a41d140752fdd14.png" group-title="Sút Bóng TV" , 🟢 01:45 13/10 ⚽ Torino vs Udinese (BLV A WIN)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1791841445-0-0-6012abcf590d56acf5d6281b893c9741
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/91ec58ca71d7660d1a41d140752fdd14.png" group-title="Sút Bóng TV" , 🟢 01:45 13/10 ⚽ Torino vs Udinese (VINFAST)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://sutbong-tv.net/wp-json/soco/v1/stream/resolve?post_id=82015&blv=617313
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/91ec58ca71d7660d1a41d140752fdd14.png" group-title="Sút Bóng TV" , 🟢 01:45 13/10 ⚽ Torino vs Udinese (CACAO)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1791841419-0-0-a6dd9e213480fd62267e367a2ec933c8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/91ec58ca71d7660d1a41d140752fdd14.png" group-title="Sút Bóng TV" , 🟢 01:45 13/10 ⚽ Torino vs Udinese (MP3)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=ffad7da7984878ec8eb3fafda12140b6&txTime=6acd9c99
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/91ec58ca71d7660d1a41d140752fdd14.png" group-title="Sút Bóng TV" , 🟢 01:45 13/10 ⚽ Torino vs Udinese (BLV A WIN)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1791841445-0-0-6012abcf590d56acf5d6281b893c9741
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/91ec58ca71d7660d1a41d140752fdd14.png" group-title="Sút Bóng TV" , 🟢 01:45 13/10 ⚽ Torino vs Udinese (VINFAST)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://sutbong-tv.net/wp-json/soco/v1/stream/resolve?post_id=82016&blv=617313
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/91ec58ca71d7660d1a41d140752fdd14.png" group-title="Sút Bóng TV" , 🟢 01:45 13/10 ⚽ Torino vs Udinese (CACAO)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1791841419-0-0-a6dd9e213480fd62267e367a2ec933c8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/91ec58ca71d7660d1a41d140752fdd14.png" group-title="Sút Bóng TV" , 🟢 01:45 13/10 ⚽ Torino vs Udinese (MP3)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=ffad7da7984878ec8eb3fafda12140b6&txTime=6acd9c99
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/413e7e9bd7d593b7a74bfc1004eb54f5.png" group-title="Sút Bóng TV" , 🟢 02:00 13/10 ⚽ Levante vs Sevilla FC (PEANUT)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1791840965-0-0-d11e06325e6e13512bae36557f81175a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/413e7e9bd7d593b7a74bfc1004eb54f5.png" group-title="Sút Bóng TV" , 🟢 02:00 13/10 ⚽ Levante vs Sevilla FC (BLV BÉO)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=923594782cd0c5eabeb7eb4060052672&txTime=6acd9c99
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/413e7e9bd7d593b7a74bfc1004eb54f5.png" group-title="Sút Bóng TV" , 🟢 02:00 13/10 ⚽ Levante vs Sevilla FC (TUẤN CÙI)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1791840965-0-0-e490cc08132e329e2c648043ad0ba78b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/413e7e9bd7d593b7a74bfc1004eb54f5.png" group-title="Sút Bóng TV" , 🟢 02:00 13/10 ⚽ Levante vs Sevilla FC (PEANUT)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1791840965-0-0-d11e06325e6e13512bae36557f81175a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/413e7e9bd7d593b7a74bfc1004eb54f5.png" group-title="Sút Bóng TV" , 🟢 02:00 13/10 ⚽ Levante vs Sevilla FC (BLV BÉO)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=923594782cd0c5eabeb7eb4060052672&txTime=6acd9c99
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/413e7e9bd7d593b7a74bfc1004eb54f5.png" group-title="Sút Bóng TV" , 🟢 02:00 13/10 ⚽ Levante vs Sevilla FC (TUẤN CÙI)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1791840965-0-0-e490cc08132e329e2c648043ad0ba78b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/413e7e9bd7d593b7a74bfc1004eb54f5.png" group-title="Sút Bóng TV" , 🟢 02:00 13/10 ⚽ Levante vs Sevilla FC (BLV FIREMAN)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1791842765-0-0-0cbe7e3f5fe598575ed2d942c73170b1
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/413e7e9bd7d593b7a74bfc1004eb54f5.png" group-title="Sút Bóng TV" , 🟢 02:00 13/10 ⚽ Levante vs Sevilla FC (PEANUT)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1791840965-0-0-d11e06325e6e13512bae36557f81175a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/413e7e9bd7d593b7a74bfc1004eb54f5.png" group-title="Sút Bóng TV" , 🟢 02:00 13/10 ⚽ Levante vs Sevilla FC (BLV BÉO)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=923594782cd0c5eabeb7eb4060052672&txTime=6acd9c99
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/413e7e9bd7d593b7a74bfc1004eb54f5.png" group-title="Sút Bóng TV" , 🟢 02:00 13/10 ⚽ Levante vs Sevilla FC (TUẤN CÙI)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1791840965-0-0-e490cc08132e329e2c648043ad0ba78b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/413e7e9bd7d593b7a74bfc1004eb54f5.png" group-title="Sút Bóng TV" , 🟢 02:00 13/10 ⚽ Levante vs Sevilla FC (BLV FIREMAN)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1791842765-0-0-0cbe7e3f5fe598575ed2d942c73170b1
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/413e7e9bd7d593b7a74bfc1004eb54f5.png" group-title="Sút Bóng TV" , 🟢 02:00 13/10 ⚽ Levante vs Sevilla FC (PEANUT)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1791840965-0-0-d11e06325e6e13512bae36557f81175a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/413e7e9bd7d593b7a74bfc1004eb54f5.png" group-title="Sút Bóng TV" , 🟢 02:00 13/10 ⚽ Levante vs Sevilla FC (BLV BÉO)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=923594782cd0c5eabeb7eb4060052672&txTime=6acd9c99
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/413e7e9bd7d593b7a74bfc1004eb54f5.png" group-title="Sút Bóng TV" , 🟢 02:00 13/10 ⚽ Levante vs Sevilla FC (TUẤN CÙI)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1791840965-0-0-e490cc08132e329e2c648043ad0ba78b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/413e7e9bd7d593b7a74bfc1004eb54f5.png" group-title="Sút Bóng TV" , 🟢 02:00 13/10 ⚽ Levante vs Sevilla FC (BLV FIREMAN)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1791842765-0-0-0cbe7e3f5fe598575ed2d942c73170b1
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/b71d35d822ae86285e1d38fd206093a3.png" group-title="Sút Bóng TV" , 🟢 02:00 13/10 ⚽ Coventry City vs Newcastle United (BLV BẢY)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://sutbong-tv.net/wp-json/soco/v1/stream/resolve?post_id=82021&blv=621843
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/b71d35d822ae86285e1d38fd206093a3.png" group-title="Sút Bóng TV" , 🟢 02:00 13/10 ⚽ Coventry City vs Newcastle United (BLV MESSI)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1791754800-0-0-6757fa828ee6078ec40cb427a74cb4d2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/b71d35d822ae86285e1d38fd206093a3.png" group-title="Sút Bóng TV" , 🟢 02:00 13/10 ⚽ Coventry City vs Newcastle United (BLV LUCAS)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1791841025-0-0-eb41fbd4b8b72ec83bce04d6cb72922c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/b71d35d822ae86285e1d38fd206093a3.png" group-title="Sút Bóng TV" , 🟢 02:00 13/10 ⚽ Coventry City vs Newcastle United (CURRY)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://sutbong-tv.net/wp-json/soco/v1/stream/resolve?post_id=82021&blv=622240
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/b71d35d822ae86285e1d38fd206093a3.png" group-title="Sút Bóng TV" , 🟢 02:00 13/10 ⚽ Coventry City vs Newcastle United (BÒ TƯƠI)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://sutbong-tv.net/wp-json/soco/v1/stream/resolve?post_id=82021&blv=620797
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/b71d35d822ae86285e1d38fd206093a3.png" group-title="Sút Bóng TV" , 🟢 02:00 13/10 ⚽ Coventry City vs Newcastle United (NGƯỜI CÁ)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://sutbong-tv.net/wp-json/soco/v1/stream/resolve?post_id=82021&blv=595335
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/b71d35d822ae86285e1d38fd206093a3.png" group-title="Sút Bóng TV" , 🟢 02:00 13/10 ⚽ Coventry City vs Newcastle United (BLV BẢY)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://sutbong-tv.net/wp-json/soco/v1/stream/resolve?post_id=82022&blv=621843
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/b71d35d822ae86285e1d38fd206093a3.png" group-title="Sút Bóng TV" , 🟢 02:00 13/10 ⚽ Coventry City vs Newcastle United (BLV MESSI)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1791754800-0-0-6757fa828ee6078ec40cb427a74cb4d2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/b71d35d822ae86285e1d38fd206093a3.png" group-title="Sút Bóng TV" , 🟢 02:00 13/10 ⚽ Coventry City vs Newcastle United (BLV LUCAS)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1791841025-0-0-eb41fbd4b8b72ec83bce04d6cb72922c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/b71d35d822ae86285e1d38fd206093a3.png" group-title="Sút Bóng TV" , 🟢 02:00 13/10 ⚽ Coventry City vs Newcastle United (CURRY)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1791841025-0-0-42a86d8f1ba5cd78f5a1c9db1eea4dfc
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/b71d35d822ae86285e1d38fd206093a3.png" group-title="Sút Bóng TV" , 🟢 02:00 13/10 ⚽ Coventry City vs Newcastle United (BÒ TƯƠI)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://sutbong-tv.net/wp-json/soco/v1/stream/resolve?post_id=82022&blv=620797
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/b71d35d822ae86285e1d38fd206093a3.png" group-title="Sút Bóng TV" , 🟢 02:00 13/10 ⚽ Coventry City vs Newcastle United (NGƯỜI CÁ)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1791841025-0-0-3306e1d75bb2364506dadd145bcb6bf0
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/b71d35d822ae86285e1d38fd206093a3.png" group-title="Sút Bóng TV" , 🟢 02:00 13/10 ⚽ Coventry City vs Newcastle United (BLV BẢY)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://sutbong-tv.net/wp-json/soco/v1/stream/resolve?post_id=82023&blv=621843
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/b71d35d822ae86285e1d38fd206093a3.png" group-title="Sút Bóng TV" , 🟢 02:00 13/10 ⚽ Coventry City vs Newcastle United (BLV MESSI)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1791754800-0-0-6757fa828ee6078ec40cb427a74cb4d2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/b71d35d822ae86285e1d38fd206093a3.png" group-title="Sút Bóng TV" , 🟢 02:00 13/10 ⚽ Coventry City vs Newcastle United (BLV LUCAS)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1791841025-0-0-eb41fbd4b8b72ec83bce04d6cb72922c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/b71d35d822ae86285e1d38fd206093a3.png" group-title="Sút Bóng TV" , 🟢 02:00 13/10 ⚽ Coventry City vs Newcastle United (CURRY)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1791841025-0-0-42a86d8f1ba5cd78f5a1c9db1eea4dfc
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/b71d35d822ae86285e1d38fd206093a3.png" group-title="Sút Bóng TV" , 🟢 02:00 13/10 ⚽ Coventry City vs Newcastle United (BÒ TƯƠI)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://sutbong-tv.net/wp-json/soco/v1/stream/resolve?post_id=82023&blv=620797
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/b71d35d822ae86285e1d38fd206093a3.png" group-title="Sút Bóng TV" , 🟢 02:00 13/10 ⚽ Coventry City vs Newcastle United (NGƯỜI CÁ)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1791841025-0-0-3306e1d75bb2364506dadd145bcb6bf0
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/18814df799b100327fcc0974dfcfab3e.png" group-title="Sút Bóng TV" , 🟢 02:15 13/10 ⚽ Al Nassr vs Neftchi Fergana (THẠCH TÚ)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=b068e8269c275bbb28894d52babccf4c&txTime=6acd9c5d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/18814df799b100327fcc0974dfcfab3e.png" group-title="Sút Bóng TV" , 🟢 02:15 13/10 ⚽ Al Nassr vs Neftchi Fergana (SAO LA)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=bf454d3f641392c12754ce3026b66750&txTime=6acd9c5d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/18814df799b100327fcc0974dfcfab3e.png" group-title="Sút Bóng TV" , 🟢 02:15 13/10 ⚽ Al Nassr vs Neftchi Fergana (LÃO LÂM)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1791841865-0-0-04191a03dae7adc0844f19d7fa1bb6e8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/18814df799b100327fcc0974dfcfab3e.png" group-title="Sút Bóng TV" , 🟢 02:15 13/10 ⚽ Al Nassr vs Neftchi Fergana (BLV A TÚ)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1791841925-0-0-6f87550d3be61f0cb0a9dd9103548566
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/18814df799b100327fcc0974dfcfab3e.png" group-title="Sút Bóng TV" , 🟢 02:15 13/10 ⚽ Al Nassr vs Neftchi Fergana (QUỐC KHÁNH)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=208c08b9217db45a2d4cc08d26772c79&txTime=6acda059
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/18814df799b100327fcc0974dfcfab3e.png" group-title="Sút Bóng TV" , 🟢 02:15 13/10 ⚽ Al Nassr vs Neftchi Fergana (BLV HEHE)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://sutbong-tv.net/wp-json/soco/v1/stream/resolve?post_id=82006&blv=622241
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/dcb10121863a7c64d4c9204c901fd8bc.png" group-title="Sút Bóng TV" , 🟢 02:15 13/10 ⚽ FC Famalicao vs Alverca (BOSS)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://sutbong-tv.net/wp-json/soco/v1/stream/resolve?post_id=82024&blv=620504
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/dcb10121863a7c64d4c9204c901fd8bc.png" group-title="Sút Bóng TV" , 🟢 02:15 13/10 ⚽ FC Famalicao vs Alverca (CÔNG CHẤT)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://sutbong-tv.net/wp-json/soco/v1/stream/resolve?post_id=82024&blv=291277
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/dcb10121863a7c64d4c9204c901fd8bc.png" group-title="Sút Bóng TV" , 🟢 02:15 13/10 ⚽ FC Famalicao vs Alverca (BOSS)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://sutbong-tv.net/wp-json/soco/v1/stream/resolve?post_id=82025&blv=620504
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/dcb10121863a7c64d4c9204c901fd8bc.png" group-title="Sút Bóng TV" , 🟢 02:15 13/10 ⚽ FC Famalicao vs Alverca (CÔNG CHẤT)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://sutbong-tv.net/wp-json/soco/v1/stream/resolve?post_id=82025&blv=291277
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/dcb10121863a7c64d4c9204c901fd8bc.png" group-title="Sút Bóng TV" , 🟢 02:15 13/10 ⚽ FC Famalicao vs Alverca (BOSS)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://sutbong-tv.net/wp-json/soco/v1/stream/resolve?post_id=82026&blv=620504
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/dcb10121863a7c64d4c9204c901fd8bc.png" group-title="Sút Bóng TV" , 🟢 02:15 13/10 ⚽ FC Famalicao vs Alverca (CÔNG CHẤT)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://sutbong-tv.net/wp-json/soco/v1/stream/resolve?post_id=82026&blv=291277
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/dcb10121863a7c64d4c9204c901fd8bc.png" group-title="Sút Bóng TV" , 🟢 02:15 13/10 ⚽ FC Famalicao vs Alverca (BOSS)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://sutbong-tv.net/wp-json/soco/v1/stream/resolve?post_id=82027&blv=620504
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/dcb10121863a7c64d4c9204c901fd8bc.png" group-title="Sút Bóng TV" , 🟢 02:15 13/10 ⚽ FC Famalicao vs Alverca (CÔNG CHẤT)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://sutbong-tv.net/wp-json/soco/v1/stream/resolve?post_id=82027&blv=291277
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/e5cab1b28b093b05583852c108fe2f23.png" group-title="Sút Bóng TV" , 🟢 04:30 13/10 ⚽ Gimnasia y Esgrima de Mendoza vs Club Atlético Newell's Old Boys (CHAN ĐÊ)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1791847205-0-0-df9f872a5ee9b1b2410782244ab0a52e
+https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1791848285-0-0-71399ab331c13d545533c903ce787cbd
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/e5cab1b28b093b05583852c108fe2f23.png" group-title="Sút Bóng TV" , 🟢 04:30 13/10 ⚽ Gimnasia y Esgrima de Mendoza vs Club Atlético Newell's Old Boys (MP3)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=68631fd65456d8d30f044398611b9759&txTime=6acdb175
+https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=ffad7da7984878ec8eb3fafda12140b6&txTime=6acd9c99
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/e5cab1b28b093b05583852c108fe2f23.png" group-title="Sút Bóng TV" , 🟢 04:30 13/10 ⚽ Gimnasia y Esgrima de Mendoza vs Club Atlético Newell's Old Boys (BLV CÁO)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1791847205-0-0-eaec75bcdecf533787b5e1a25574214c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/e5cab1b28b093b05583852c108fe2f23.png" group-title="Sút Bóng TV" , 🟢 04:30 13/10 ⚽ Gimnasia y Esgrima de Mendoza vs Club Atlético Newell's Old Boys (CHAN ĐÊ)
-#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1791847205-0-0-df9f872a5ee9b1b2410782244ab0a52e
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/e5cab1b28b093b05583852c108fe2f23.png" group-title="Sút Bóng TV" , 🟢 04:30 13/10 ⚽ Gimnasia y Esgrima de Mendoza vs Club Atlético Newell's Old Boys (MP3)
-#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=68631fd65456d8d30f044398611b9759&txTime=6acdb175
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/e5cab1b28b093b05583852c108fe2f23.png" group-title="Sút Bóng TV" , 🟢 04:30 13/10 ⚽ Gimnasia y Esgrima de Mendoza vs Club Atlético Newell's Old Boys (BLV CÁO)
-#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1791847205-0-0-eaec75bcdecf533787b5e1a25574214c
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1791848285-0-0-54e0ef77aadf9c9e80574ac467e83978
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/e5cab1b28b093b05583852c108fe2f23.png" group-title="Sút Bóng TV" , 🟢 04:30 13/10 ⚽ Gimnasia y Esgrima de Mendoza vs Club Atlético Newell's Old Boys (BLV A TINH)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niues.live/live/stream-9912139_lhd.m3u8?auth_key=1791847205-0-0-6c132daed2239297207f077b1e0b80f7
+https://pull.niues.live/live/stream-9912139_lhd.m3u8?auth_key=1791848285-0-0-de2b78ec78373197dedda1f497cc2d70
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/e5cab1b28b093b05583852c108fe2f23.png" group-title="Sút Bóng TV" , 🟢 04:30 13/10 ⚽ Gimnasia y Esgrima de Mendoza vs Club Atlético Newell's Old Boys (CHAN ĐÊ)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1791847205-0-0-df9f872a5ee9b1b2410782244ab0a52e
+https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1791848285-0-0-71399ab331c13d545533c903ce787cbd
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/e5cab1b28b093b05583852c108fe2f23.png" group-title="Sút Bóng TV" , 🟢 04:30 13/10 ⚽ Gimnasia y Esgrima de Mendoza vs Club Atlético Newell's Old Boys (MP3)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=68631fd65456d8d30f044398611b9759&txTime=6acdb175
+https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=ffad7da7984878ec8eb3fafda12140b6&txTime=6acd9c99
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/e5cab1b28b093b05583852c108fe2f23.png" group-title="Sút Bóng TV" , 🟢 04:30 13/10 ⚽ Gimnasia y Esgrima de Mendoza vs Club Atlético Newell's Old Boys (BLV CÁO)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1791847205-0-0-eaec75bcdecf533787b5e1a25574214c
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1791848285-0-0-54e0ef77aadf9c9e80574ac467e83978
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/e5cab1b28b093b05583852c108fe2f23.png" group-title="Sút Bóng TV" , 🟢 04:30 13/10 ⚽ Gimnasia y Esgrima de Mendoza vs Club Atlético Newell's Old Boys (BLV A TINH)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niues.live/live/stream-9912139_lhd.m3u8?auth_key=1791847205-0-0-6c132daed2239297207f077b1e0b80f7
+https://pull.niues.live/live/stream-9912139_lhd.m3u8?auth_key=1791848285-0-0-de2b78ec78373197dedda1f497cc2d70
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/e5cab1b28b093b05583852c108fe2f23.png" group-title="Sút Bóng TV" , 🟢 04:30 13/10 ⚽ Gimnasia y Esgrima de Mendoza vs Club Atlético Newell's Old Boys (CHAN ĐÊ)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1791848285-0-0-71399ab331c13d545533c903ce787cbd
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/e5cab1b28b093b05583852c108fe2f23.png" group-title="Sút Bóng TV" , 🟢 04:30 13/10 ⚽ Gimnasia y Esgrima de Mendoza vs Club Atlético Newell's Old Boys (MP3)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=ffad7da7984878ec8eb3fafda12140b6&txTime=6acd9c99
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/e5cab1b28b093b05583852c108fe2f23.png" group-title="Sút Bóng TV" , 🟢 04:30 13/10 ⚽ Gimnasia y Esgrima de Mendoza vs Club Atlético Newell's Old Boys (BLV CÁO)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1791848285-0-0-54e0ef77aadf9c9e80574ac467e83978
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/e5cab1b28b093b05583852c108fe2f23.png" group-title="Sút Bóng TV" , 🟢 04:30 13/10 ⚽ Gimnasia y Esgrima de Mendoza vs Club Atlético Newell's Old Boys (BLV A TINH)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niues.live/live/stream-9912139_lhd.m3u8?auth_key=1791848285-0-0-de2b78ec78373197dedda1f497cc2d70
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/49aeea6b4b56aa4fd7beeb87d1a31167.png" group-title="Sút Bóng TV" , 🟢 05:00 13/10 ⚽ Gremio Novorizontino vs Ponte Preta (BLV YONE)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1791847265-0-0-dfdcdf84a8394a6a9063562abc6369e1
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1791848285-0-0-ab6e36796058f8a3b534e152471c3dfc
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/49aeea6b4b56aa4fd7beeb87d1a31167.png" group-title="Sút Bóng TV" , 🟢 05:00 13/10 ⚽ Gremio Novorizontino vs Ponte Preta (BLV VIP)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=e4e2ee7667d1b6b65f20e97e9b5446c5&txTime=6acdb1b1
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=d04bb16fcfe9a3e510019e75b111a0c1&txTime=6acdb5ad
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/49aeea6b4b56aa4fd7beeb87d1a31167.png" group-title="Sút Bóng TV" , 🟢 05:00 13/10 ⚽ Gremio Novorizontino vs Ponte Preta (BLV YONE)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1791847265-0-0-dfdcdf84a8394a6a9063562abc6369e1
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1791848285-0-0-ab6e36796058f8a3b534e152471c3dfc
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/49aeea6b4b56aa4fd7beeb87d1a31167.png" group-title="Sút Bóng TV" , 🟢 05:00 13/10 ⚽ Gremio Novorizontino vs Ponte Preta (BLV VIP)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=e4e2ee7667d1b6b65f20e97e9b5446c5&txTime=6acdb1b1
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=d04bb16fcfe9a3e510019e75b111a0c1&txTime=6acdb5ad
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/49aeea6b4b56aa4fd7beeb87d1a31167.png" group-title="Sút Bóng TV" , 🟢 05:00 13/10 ⚽ Gremio Novorizontino vs Ponte Preta (BLV YONE)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1791847265-0-0-dfdcdf84a8394a6a9063562abc6369e1
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1791848285-0-0-ab6e36796058f8a3b534e152471c3dfc
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/49aeea6b4b56aa4fd7beeb87d1a31167.png" group-title="Sút Bóng TV" , 🟢 05:00 13/10 ⚽ Gremio Novorizontino vs Ponte Preta (BLV VIP)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=e4e2ee7667d1b6b65f20e97e9b5446c5&txTime=6acdb1b1
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=d04bb16fcfe9a3e510019e75b111a0c1&txTime=6acdb5ad
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/9e1878abe2a0f02c87f7b83be0507266.png" group-title="Sút Bóng TV" , 🟢 05:30 13/10 ⚽ Criciuma vs America MG (BLV HUCK)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://sutbong-tv.net/wp-json/soco/v1/stream/resolve?post_id=82040&blv=623653
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/9e1878abe2a0f02c87f7b83be0507266.png" group-title="Sút Bóng TV" , 🟢 05:30 13/10 ⚽ Criciuma vs America MG (BLV KAN)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=b9eeb8a638647a4d38f662ff18450728&txTime=6acdb5ad
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/cf0c4313823266df1d3b1530f1e126e0.png" group-title="Sút Bóng TV" , 🟢 05:30 13/10 ⚽ Chapecoense _ SC vs Athletico Paranaense _ PR (A PÁO)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1791847265-0-0-adb3d59052f640169a6468e929cd97c9
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1791848285-0-0-f8e3a522bfb0bc0bf8d80f199c2ec4b0
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/cf0c4313823266df1d3b1530f1e126e0.png" group-title="Sút Bóng TV" , 🟢 05:30 13/10 ⚽ Chapecoense _ SC vs Athletico Paranaense _ PR (BLV ALEX)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
 https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1791847265-0-0-042d800677cfd73117c9b32f7db8dc74
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/cf0c4313823266df1d3b1530f1e126e0.png" group-title="Sút Bóng TV" , 🟢 05:30 13/10 ⚽ Chapecoense _ SC vs Athletico Paranaense _ PR (BLV COCA)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
 https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1791846706-0-0-29fe5818d0113478696a8bce2b50c5ea
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/9e1878abe2a0f02c87f7b83be0507266.png" group-title="Sút Bóng TV" , 🟢 05:30 13/10 ⚽ Criciuma vs America MG (BLV KAN)
-#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=ea36e7bb2400edde2ac0f806acccfab8&txTime=6acdb1b1
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/cf0c4313823266df1d3b1530f1e126e0.png" group-title="Sút Bóng TV" , 🟢 05:30 13/10 ⚽ Chapecoense _ SC vs Athletico Paranaense _ PR (A PÁO)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1791847265-0-0-adb3d59052f640169a6468e929cd97c9
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1791848285-0-0-f8e3a522bfb0bc0bf8d80f199c2ec4b0
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/cf0c4313823266df1d3b1530f1e126e0.png" group-title="Sút Bóng TV" , 🟢 05:30 13/10 ⚽ Chapecoense _ SC vs Athletico Paranaense _ PR (BLV ALEX)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
 https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1791847265-0-0-042d800677cfd73117c9b32f7db8dc74
@@ -683,16 +899,22 @@ https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1791847265-0-0-042d
 https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1791846706-0-0-29fe5818d0113478696a8bce2b50c5ea
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/cf0c4313823266df1d3b1530f1e126e0.png" group-title="Sút Bóng TV" , 🟢 05:30 13/10 ⚽ Chapecoense _ SC vs Athletico Paranaense _ PR (BLV GIÓ)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=e6fad97c09ac4a3c525d5e79afaa8fed&txTime=6acdb1b1
+https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=d6aa8eff375e58f972ab3009cbde5d40&txTime=6acdb5e9
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/cf0c4313823266df1d3b1530f1e126e0.png" group-title="Sút Bóng TV" , 🟢 05:30 13/10 ⚽ Chapecoense _ SC vs Athletico Paranaense _ PR (BLV RAMBO)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
 https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=e33ea4bbe94092d53675dae5701de7bd&txTime=6acdb1b1
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/cf0c4313823266df1d3b1530f1e126e0.png" group-title="Sút Bóng TV" , 🟢 05:30 13/10 ⚽ Chapecoense _ SC vs Athletico Paranaense _ PR (ASHAHI)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niues.live/live/stream-626841_lhd.m3u8?auth_key=1791847265-0-0-3c17b1ea8e9147c6840eaa2215664dcf
+https://pull.niues.live/live/stream-626841_lhd.m3u8?auth_key=1791848345-0-0-39c03ea70512f8ad1c4e383322645b5f
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/9e1878abe2a0f02c87f7b83be0507266.png" group-title="Sút Bóng TV" , 🟢 05:30 13/10 ⚽ Criciuma vs America MG (BLV HUCK)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://sutbong-tv.net/wp-json/soco/v1/stream/resolve?post_id=82041&blv=623653
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/9e1878abe2a0f02c87f7b83be0507266.png" group-title="Sút Bóng TV" , 🟢 05:30 13/10 ⚽ Criciuma vs America MG (BLV KAN)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=b9eeb8a638647a4d38f662ff18450728&txTime=6acdb5ad
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/cf0c4313823266df1d3b1530f1e126e0.png" group-title="Sút Bóng TV" , 🟢 05:30 13/10 ⚽ Chapecoense _ SC vs Athletico Paranaense _ PR (A PÁO)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1791847265-0-0-adb3d59052f640169a6468e929cd97c9
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1791848285-0-0-f8e3a522bfb0bc0bf8d80f199c2ec4b0
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/cf0c4313823266df1d3b1530f1e126e0.png" group-title="Sút Bóng TV" , 🟢 05:30 13/10 ⚽ Chapecoense _ SC vs Athletico Paranaense _ PR (BLV ALEX)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
 https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1791847265-0-0-042d800677cfd73117c9b32f7db8dc74
@@ -701,16 +923,16 @@ https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1791847265-0-0-042d
 https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1791846706-0-0-29fe5818d0113478696a8bce2b50c5ea
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/cf0c4313823266df1d3b1530f1e126e0.png" group-title="Sút Bóng TV" , 🟢 05:30 13/10 ⚽ Chapecoense _ SC vs Athletico Paranaense _ PR (BLV GIÓ)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=e6fad97c09ac4a3c525d5e79afaa8fed&txTime=6acdb1b1
+https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=d6aa8eff375e58f972ab3009cbde5d40&txTime=6acdb5e9
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/cf0c4313823266df1d3b1530f1e126e0.png" group-title="Sút Bóng TV" , 🟢 05:30 13/10 ⚽ Chapecoense _ SC vs Athletico Paranaense _ PR (BLV RAMBO)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
 https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=e33ea4bbe94092d53675dae5701de7bd&txTime=6acdb1b1
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/cf0c4313823266df1d3b1530f1e126e0.png" group-title="Sút Bóng TV" , 🟢 05:30 13/10 ⚽ Chapecoense _ SC vs Athletico Paranaense _ PR (ASHAHI)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niues.live/live/stream-626841_lhd.m3u8?auth_key=1791847265-0-0-3c17b1ea8e9147c6840eaa2215664dcf
+https://pull.niues.live/live/stream-626841_lhd.m3u8?auth_key=1791848345-0-0-39c03ea70512f8ad1c4e383322645b5f
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/cf0c4313823266df1d3b1530f1e126e0.png" group-title="Sút Bóng TV" , 🟢 05:30 13/10 ⚽ Chapecoense _ SC vs Athletico Paranaense _ PR (A PÁO)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1791847265-0-0-adb3d59052f640169a6468e929cd97c9
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1791848285-0-0-f8e3a522bfb0bc0bf8d80f199c2ec4b0
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/cf0c4313823266df1d3b1530f1e126e0.png" group-title="Sút Bóng TV" , 🟢 05:30 13/10 ⚽ Chapecoense _ SC vs Athletico Paranaense _ PR (BLV ALEX)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
 https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1791847265-0-0-042d800677cfd73117c9b32f7db8dc74
@@ -719,22 +941,25 @@ https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1791847265-0-0-042d
 https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1791846706-0-0-29fe5818d0113478696a8bce2b50c5ea
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/cf0c4313823266df1d3b1530f1e126e0.png" group-title="Sút Bóng TV" , 🟢 05:30 13/10 ⚽ Chapecoense _ SC vs Athletico Paranaense _ PR (BLV GIÓ)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=e6fad97c09ac4a3c525d5e79afaa8fed&txTime=6acdb1b1
+https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=d6aa8eff375e58f972ab3009cbde5d40&txTime=6acdb5e9
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/cf0c4313823266df1d3b1530f1e126e0.png" group-title="Sút Bóng TV" , 🟢 05:30 13/10 ⚽ Chapecoense _ SC vs Athletico Paranaense _ PR (BLV RAMBO)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
 https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=e33ea4bbe94092d53675dae5701de7bd&txTime=6acdb1b1
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/cf0c4313823266df1d3b1530f1e126e0.png" group-title="Sút Bóng TV" , 🟢 05:30 13/10 ⚽ Chapecoense _ SC vs Athletico Paranaense _ PR (ASHAHI)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niues.live/live/stream-626841_lhd.m3u8?auth_key=1791847265-0-0-3c17b1ea8e9147c6840eaa2215664dcf
+https://pull.niues.live/live/stream-626841_lhd.m3u8?auth_key=1791848345-0-0-39c03ea70512f8ad1c4e383322645b5f
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/9e1878abe2a0f02c87f7b83be0507266.png" group-title="Sút Bóng TV" , 🟢 05:30 13/10 ⚽ Criciuma vs America MG (BLV HUCK)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://sutbong-tv.net/wp-json/soco/v1/stream/resolve?post_id=82038&blv=623653
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/9e1878abe2a0f02c87f7b83be0507266.png" group-title="Sút Bóng TV" , 🟢 05:30 13/10 ⚽ Criciuma vs America MG (BLV KAN)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=ea36e7bb2400edde2ac0f806acccfab8&txTime=6acdb1b1
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=b9eeb8a638647a4d38f662ff18450728&txTime=6acdb5ad
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/9e1878abe2a0f02c87f7b83be0507266.png" group-title="Sút Bóng TV" , 🟢 05:30 13/10 ⚽ Criciuma vs America MG (BLV HUCK)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://sutbong-tv.net/wp-json/soco/v1/stream/resolve?post_id=82039&blv=623653
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/9e1878abe2a0f02c87f7b83be0507266.png" group-title="Sút Bóng TV" , 🟢 05:30 13/10 ⚽ Criciuma vs America MG (BLV KAN)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=ea36e7bb2400edde2ac0f806acccfab8&txTime=6acdb1b1
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/9e1878abe2a0f02c87f7b83be0507266.png" group-title="Sút Bóng TV" , 🟢 05:30 13/10 ⚽ Criciuma vs America MG (BLV KAN)
-#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=ea36e7bb2400edde2ac0f806acccfab8&txTime=6acdb1b1
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=b9eeb8a638647a4d38f662ff18450728&txTime=6acdb5ad
 #EXTINF:-1 tvg-logo="https://static.sportsfeed.pro/football/team/532600afe76be2528effd5790fb51a33.png" group-title="Gà Vàng 24h TV" , 🟢 04:30 13/10 ⚽ Gimnasia Mendoza vs CA Newell's Old Boys (Siêu Quậy) [hls]
 https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8
 #EXTINF:-1 tvg-logo="https://static.sportsfeed.pro/football/team/532600afe76be2528effd5790fb51a33.png" group-title="Gà Vàng 24h TV" , 🟢 04:30 13/10 ⚽ Gimnasia Mendoza vs CA Newell's Old Boys (Siêu Quậy) [flv]
