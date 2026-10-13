@@ -1,18 +1,20 @@
 #EXTM3U
-#EXTINF:-1 group-title="Updated 13/10 18:11", Updated 13/10 18:11
+#EXTINF:-1 group-title="Updated 13/10 18:31", Updated 13/10 18:31
 https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/6f05c460789939ac83282bd0686446f1.png" group-title="Vua Sân Cỏ TV" , 🟢 17:00 13/10 ⚽ Pohang Steelers vs Johor Darul Ta'zim FC (Trần Cảnh)
-https://cdn-global.ebaclofen.org/vsc/jonhny6/index.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/7d6fa50ea67cde7d66612a8189897ba5.png" group-title="Vua Sân Cỏ TV" , 🟢 17:00 13/10 ⚽ Kyoto Sanga vs Ratchaburi FC (Phổ Nghi)
+https://cdn-global.ebaclofen.org/vsc/jonhny5/index.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/c4e143e537412003565cdb7c2d212538.png" group-title="Vua Sân Cỏ TV" , 🟢 17:00 13/10 ⚽ Shanghai Port vs Daejeon Hana Citizen (Tôn Quyền)
 https://cdn1-global.ebaclofen.org/live/pro4/index.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/f3dde7370cf875e4e657b4331b1b4a31.png" group-title="Vua Sân Cỏ TV" , 19:15 13/10 ⚽ Cong An Ha Noi FC vs Kashima Antlers (Trần Hoàng)
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/6f05c460789939ac83282bd0686446f1.png" group-title="Vua Sân Cỏ TV" , 🟢 17:00 13/10 ⚽ Pohang Steelers vs Johor Darul Ta'zim FC (Trần Cảnh)
+https://cdn-global.ebaclofen.org/vsc/jonhny6/index.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/f3dde7370cf875e4e657b4331b1b4a31.png" group-title="Vua Sân Cỏ TV" , 🟡 19:15 13/10 ⚽ Cong An Ha Noi FC vs Kashima Antlers (Trần Hoàng)
 https://cdn1-global.ebaclofen.org/live/pro6/index.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/21649c3d173c8f4ec9d526432ad9f088.png" group-title="Vua Sân Cỏ TV" , 20:45 13/10 ⚽ East Bengal FC vs Al Shorta (Tào Duệ)
 https://cdn-global.ebaclofen.org/vsc/vsc-thai-tu-lion/index.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/99436fc30d359790afbd11fe602a5a45.png" group-title="Vua Sân Cỏ TV" , 23:00 13/10 ⚽ Al Seeb SC vs Al-Hussein SC (Irbid) (Nguyễn Ánh)
-https://cdn-global.ebaclofen.org/vsc/vsc-te-tuong-alien/index.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/5c794bfbf3227563c85323bb624721ec.png" group-title="Vua Sân Cỏ TV" , 23:00 13/10 ⚽ Al-Sadd vs Al Hilal (Ngô Quyền)
 https://cdn-global.ebaclofen.org/vsc/vsc-vuong-tu-neil/index.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/99436fc30d359790afbd11fe602a5a45.png" group-title="Vua Sân Cỏ TV" , 23:00 13/10 ⚽ Al Seeb SC vs Al-Hussein SC (Irbid) (Nguyễn Ánh)
+https://cdn-global.ebaclofen.org/vsc/vsc-te-tuong-alien/index.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/b8c5038ebb0e21b09a72008b7cb6219f.png" group-title="Vua Sân Cỏ TV" , 23:45 13/10 ⚽ RC Lens vs Sporting CP (Dương Kiên)
 https://cdn1-global.ebaclofen.org/live/pro1/index.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132415_d79fbc72.png" group-title="Chuối Chiên TV" , 🟢 17:00 13/10 ⚽ Kyoto Sanga vs Ratchaburi (Chuối Sấy) [FHD] [hls]
@@ -24,13 +26,13 @@ https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133411_6f730c26.png" group-title="Chuối Chiên TV" , 🟢 17:00 13/10 ⚽ SHANGHAI SIPG vs Daejeon Citizen (Chuối Chao) [FHD] [hls]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125850_46e8508f.png" group-title="Chuối Chiên TV" , 🟡 18:30 13/10 ⚽ Bandırmaspor vs Sivasspor (Chuối Lá) [FHD] [hls]
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125850_46e8508f.png" group-title="Chuối Chiên TV" , 🟢 18:30 13/10 ⚽ Bandırmaspor vs Sivasspor (Chuối Lá) [FHD] [hls]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131733_ebcabb99.png" group-title="Chuối Chiên TV" , 19:15 13/10 ⚽ Buriram United vs Beijing Guoan (Chuối Kem) [FHD] [hls]
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131733_ebcabb99.png" group-title="Chuối Chiên TV" , 🟡 19:15 13/10 ⚽ Buriram United vs Beijing Guoan (Chuối Kem) [FHD] [hls]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/20250823_192612_72e9a551.webp" group-title="Chuối Chiên TV" , 19:15 13/10 ⚽ Công An Hà Nội vs Kashima (Chuối Ngao) [FHD] [hls]
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/20250823_192612_72e9a551.webp" group-title="Chuối Chiên TV" , 🟡 19:15 13/10 ⚽ Công An Hà Nội vs Kashima (Chuối Ngao) [FHD] [hls]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145044_1d75f929.png" group-title="Chuối Chiên TV" , 20:45 13/10 ⚽ East Bengal II vs Al Shorta (Chuối Tây) [FHD] [hls]
@@ -109,13 +111,13 @@ https://cdnhls.xbdbotv.live/live/MTk4NjcwNzA6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmR
 https://cdnflv.xbdbotv.live/live/MTk4NjcwNzY6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Omt1Ym9ueWdhYnFucHloNTh5aWt3ZXF1Zw.flv
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kyoto-sanga-3509" group-title="Bia Ôm TV" , 🟢 17:00 13/10 ⚽ Kyoto Sanga vs Ratchaburi Mitrphol FC (NEM NƯỚNG) [hls]
 https://cdnhls.xbdbotv.live/live/MTk4NjcwNzY6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Omt1Ym9ueWdhYnFucHloNTh5aWt3ZXF1Zw/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/cong-an-nhan-dan-237001" group-title="Bia Ôm TV" , 19:15 13/10 ⚽ Công an Hà Nội vs Kashima Antlers (Lẩu Ếch) [flv]
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/cong-an-nhan-dan-237001" group-title="Bia Ôm TV" , 🟡 19:15 13/10 ⚽ Công an Hà Nội vs Kashima Antlers (Lẩu Ếch) [flv]
 https://cdnflv.xbdbotv.live/live/MTk4NjcwNDg6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmlvdXl1OW10dGhvcnN1MnZ5cHBvang1cg.flv
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/cong-an-nhan-dan-237001" group-title="Bia Ôm TV" , 19:15 13/10 ⚽ Công an Hà Nội vs Kashima Antlers (Lẩu Ếch) [hls]
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/cong-an-nhan-dan-237001" group-title="Bia Ôm TV" , 🟡 19:15 13/10 ⚽ Công an Hà Nội vs Kashima Antlers (Lẩu Ếch) [hls]
 https://cdnhls.xbdbotv.live/live/MTk4NjcwNDg6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmlvdXl1OW10dGhvcnN1MnZ5cHBvang1cg/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/buriram-united-6809" group-title="Bia Ôm TV" , 19:15 13/10 ⚽ Buriram United vs Beijing Guoan (333) [flv]
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/buriram-united-6809" group-title="Bia Ôm TV" , 🟡 19:15 13/10 ⚽ Buriram United vs Beijing Guoan (333) [flv]
 https://cdnflv.xbdbotv.live/live/MTk4NjcwNTU6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmZxOGsyanJxamNnaXk1ZWJlaHJucjNneA.flv
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/buriram-united-6809" group-title="Bia Ôm TV" , 19:15 13/10 ⚽ Buriram United vs Beijing Guoan (333) [hls]
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/buriram-united-6809" group-title="Bia Ôm TV" , 🟡 19:15 13/10 ⚽ Buriram United vs Beijing Guoan (333) [hls]
 https://cdnhls.xbdbotv.live/live/MTk4NjcwNTU6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmZxOGsyanJxamNnaXk1ZWJlaHJucjNneA/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/east-bengal-4017" group-title="Bia Ôm TV" , 20:45 13/10 ⚽ East Bengal vs Al Shorta (TÔM CHIÊN) [flv]
 https://cdnflv.xbdbotv.live/live/MTk4NjIzNTQ6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Oms2aGE3OG11ZW41M3g3N25iaGMwNmh4Mw.flv
@@ -165,17 +167,17 @@ https://flv.lauthaitv.cc/live/pohang-johor-afcc1.flv
 https://hls.lauthaitv.cc/live/shanghai-daejon-afcc1/index.m3u8
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/3cd9c8b6-7fed-434b-b5c8-121f2c237b44" group-title="S8 TV" , 🟢 17:00 13/10 ⚽ Shanghai Port FC vs Daejeon Citizen (NGƯỜI THỎ) [flv]
 https://flv.lauthaitv.cc/live/shanghai-daejon-afcc1.flv
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/f8dd968c-bb1e-4de2-a337-84a1d98e34e9" group-title="S8 TV" , 🟡 18:30 13/10 ⚽ Bandirmaspor vs Sivasspor (NGƯỜI PHÁO) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/f8dd968c-bb1e-4de2-a337-84a1d98e34e9" group-title="S8 TV" , 🟢 18:30 13/10 ⚽ Bandirmaspor vs Sivasspor (NGƯỜI PHÁO) [hls]
 https://hls.lauthaitv.cc/live/bandi-siva-tur1st/index.m3u8
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/f8dd968c-bb1e-4de2-a337-84a1d98e34e9" group-title="S8 TV" , 🟡 18:30 13/10 ⚽ Bandirmaspor vs Sivasspor (NGƯỜI PHÁO) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/f8dd968c-bb1e-4de2-a337-84a1d98e34e9" group-title="S8 TV" , 🟢 18:30 13/10 ⚽ Bandirmaspor vs Sivasspor (NGƯỜI PHÁO) [flv]
 https://flv.lauthaitv.cc/live/bandi-siva-tur1st.flv
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/38236111-2589-453f-b03d-04f7cd5d70f5" group-title="S8 TV" , 19:15 13/10 ⚽ Cong An Ha Noi FC vs Kashima Antlers (NGƯỜI NẶN) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/38236111-2589-453f-b03d-04f7cd5d70f5" group-title="S8 TV" , 🟡 19:15 13/10 ⚽ Cong An Ha Noi FC vs Kashima Antlers (NGƯỜI NẶN) [hls]
 https://hls.lauthaitv.cc/live/cahn-kashima-afcc1/index.m3u8
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/38236111-2589-453f-b03d-04f7cd5d70f5" group-title="S8 TV" , 19:15 13/10 ⚽ Cong An Ha Noi FC vs Kashima Antlers (NGƯỜI NẶN) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/38236111-2589-453f-b03d-04f7cd5d70f5" group-title="S8 TV" , 🟡 19:15 13/10 ⚽ Cong An Ha Noi FC vs Kashima Antlers (NGƯỜI NẶN) [flv]
 https://flv.lauthaitv.cc/live/cahn-kashima-afcc1.flv
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/96aaa0db-de61-4332-a70c-b9de8c1ba7da" group-title="S8 TV" , 19:15 13/10 ⚽ Buriram United vs Beijing Guoan FC (NGƯỜI THỎ) [hls]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/96aaa0db-de61-4332-a70c-b9de8c1ba7da" group-title="S8 TV" , 🟡 19:15 13/10 ⚽ Buriram United vs Beijing Guoan FC (NGƯỜI THỎ) [hls]
 https://hls.lauthaitv.cc/live/buriram-beijing-afcc1/index.m3u8
-#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/96aaa0db-de61-4332-a70c-b9de8c1ba7da" group-title="S8 TV" , 19:15 13/10 ⚽ Buriram United vs Beijing Guoan FC (NGƯỜI THỎ) [flv]
+#EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/96aaa0db-de61-4332-a70c-b9de8c1ba7da" group-title="S8 TV" , 🟡 19:15 13/10 ⚽ Buriram United vs Beijing Guoan FC (NGƯỜI THỎ) [flv]
 https://flv.lauthaitv.cc/live/buriram-beijing-afcc1.flv
 #EXTINF:-1 tvg-logo="https://s8tvkc.top/wp-json/s8-image/a726bcd6-cf67-47d2-a1c7-5d78ed1edf41" group-title="S8 TV" , 20:45 13/10 ⚽ East Bengal vs Al Shorta (NGƯỜI CÁO) [hls]
 https://hls.lauthaitv.cc/live/bengal-shorta-afcc2/index.m3u8
@@ -242,16 +244,16 @@ https://wtyi0525.edgemaxcdn.org/live/x00-hd-1111/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/198616.png" group-title="Sao Kê TV" , 🟢 17:00 13/10 ⚽ Shanghai Port vs Daejeon Hana Citizen (Ricky) [hls]
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/x83-hd-1111/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/162975.png" group-title="Sao Kê TV" , 🟡 18:30 13/10 ⚽ Bandırmaspor vs Sivasspor (Tít) [hls]
+#EXTINF:-1 tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/162975.png" group-title="Sao Kê TV" , 🟢 18:30 13/10 ⚽ Bandırmaspor vs Sivasspor (Tít) [hls]
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/x2-hd-1111/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/598333.png" group-title="Sao Kê TV" , 🟡 19:00 13/10 ⚽ Galatasaray U19 vs Barcelona U19 (Teppy) [hls]
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/x31-hd-1111/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165243.png" group-title="Sao Kê TV" , 19:15 13/10 ⚽ Buriram United vs Beijing Guoan (Long Ruồi) [hls]
+#EXTINF:-1 tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165243.png" group-title="Sao Kê TV" , 🟡 19:15 13/10 ⚽ Buriram United vs Beijing Guoan (Long Ruồi) [hls]
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/x1-hd-1111/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/614354.png" group-title="Sao Kê TV" , 19:15 13/10 ⚽ Công An Hà Nội vs Kashima Antlers (Nếp Cẩm) [hls]
+#EXTINF:-1 tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/614354.png" group-title="Sao Kê TV" , 🟡 19:15 13/10 ⚽ Công An Hà Nội vs Kashima Antlers (Nếp Cẩm) [hls]
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/x4-hd-1111/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165184.png" group-title="Sao Kê TV" , 20:45 13/10 ⚽ East Bengal FC vs Al Shorta (Mơ) [hls]
@@ -306,7 +308,7 @@ https://live2.jorvakstreamcache.com/live/channel6.flv
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/z318q66hp0oqo9j/image/small" group-title="Xôi Lạc Z TV" , 🟢 17:00 13/10 ⚽ Pohang Steelers vs Johor Darul Takzim (HD MAX)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001791889541-0-0-8f7b7fddbb2f063bfad9556ee9f650c9
+https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001791890433-0-0-7677327c1d9dc3537185d807f2f47eaa
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/8yomo4h7401q0j6/image/small" group-title="Xôi Lạc Z TV" , 🟢 17:00 13/10 ⚽ Shanghai Port vs Daejeon Hana Citizen (NICK)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
@@ -314,7 +316,7 @@ https://live2.jorvakstreamcache.com/live/channel5.flv
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/8yomo4h7401q0j6/image/small" group-title="Xôi Lạc Z TV" , 🟢 17:00 13/10 ⚽ Shanghai Port vs Daejeon Hana Citizen (HD NICK)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001791889549-0-0-b315e2a996a7645df8d165eb8e8c86b6
+https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001791890445-0-0-ca47af0ff99de47fde3664c89b56fb02
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/3glrw7hw3yeqdyj/image/small" group-title="Xôi Lạc Z TV" , 🟢 17:00 13/10 ⚽ Kyoto Sanga vs Ratchaburi (RIO)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
@@ -338,31 +340,7 @@ https://live2.jorvakstreamcache.com/live/channel21.flv
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/dn1m1ghe77zmoep/image/small" group-title="Xôi Lạc Z TV" , 🟢 18:00 13/10 ⚽ Lens U19 vs Sporting CP U19 (HD RAVEN)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001791889675-0-0-c79e149d055fd13e69b7047fee3c1839
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/ednm9wheg5zryox/image/small" group-title="Xôi Lạc Z TV" , 🟢 18:00 13/10 ⚽ Sabah Baku U19 vs Slavia Praha U19 (TONI)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel9.flv
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/ednm9wheg5zryox/image/small" group-title="Xôi Lạc Z TV" , 🟢 18:00 13/10 ⚽ Sabah Baku U19 vs Slavia Praha U19 (HD TONI)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-9.flv?auth_key=3000001791889728-0-0-5453cb2f3ad8490f23a5074afab28c1d
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/318q66h04y7qo9j/image/small" group-title="Xôi Lạc Z TV" , 🟢 18:00 13/10 ⚽ Viking U19 vs Bayern Munchen U19 (FELIX)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel24.flv
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/318q66h04y7qo9j/image/small" group-title="Xôi Lạc Z TV" , 🟢 18:00 13/10 ⚽ Viking U19 vs Bayern Munchen U19 (HD FELIX)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-24.flv?auth_key=3000001791889737-0-0-2b524b24273162aed3e812e16e415bc2
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/jw2r02tld6oqz84/image/small" group-title="Xôi Lạc Z TV" , 🟢 16:00 13/10 🏀 Bataan Risers vs San Juan Knights (KOBE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel27.flv
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/jw2r02tld6oqz84/image/small" group-title="Xôi Lạc Z TV" , 🟢 16:00 13/10 🏀 Bataan Risers vs San Juan Knights (HD KOBE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-27.flv?auth_key=3000001791889766-0-0-e91a6f4b673b284d6ce308e76c98ca81
+https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001791890573-0-0-7319de488727f4d4c33b8b4adea0751f
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/kn54ql7t0xlrvy9/image/small" group-title="Xôi Lạc Z TV" , 🟢 17:00 13/10 🏀 Anyang JungKwanJang vs Goyang Sono (TOMMY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
@@ -370,7 +348,7 @@ https://live2.jorvakstreamcache.com/live/channel29.flv
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/kn54ql7t0xlrvy9/image/small" group-title="Xôi Lạc Z TV" , 🟢 17:00 13/10 🏀 Anyang JungKwanJang vs Goyang Sono (HD TOMMY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-29.flv?auth_key=3000001791889791-0-0-f2f8027e2097d7888676ee6b6829e545
+https://live2.domaincdn.cc/livecdn/channel-29.flv?auth_key=3000001791890629-0-0-06fe1a44230b9a2472ebc12cb1e8cce4
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/318q6nto5v0mo9j/image/small" group-title="Xôi Lạc Z TV" , 🟢 18:00 13/10 🏀 Caloocan Kankaloo vs Ilagan Isabela Cowboys (ALAN)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
@@ -378,15 +356,15 @@ https://live2.jorvakstreamcache.com/live/channel25.flv
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/318q6nto5v0mo9j/image/small" group-title="Xôi Lạc Z TV" , 🟢 18:00 13/10 🏀 Caloocan Kankaloo vs Ilagan Isabela Cowboys (HD ALAN)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-25.flv?auth_key=3000001791889831-0-0-656e92f718ac32028e7d7de2c50703d9
+https://live2.domaincdn.cc/livecdn/channel-25.flv?auth_key=3000001791890636-0-0-a7e3daafd6ad0b834124536d67ce5731
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/p3glrwjh808qdyj/image/small" group-title="Xôi Lạc Z TV" , 🟢 17:00 13/10 🏐 Nữ Incheon Heungkuk vs Nữ IBK (TYSON)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel33.flv
+https://live2.pro2cdnlive.com/live/channel33.flv
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/p3glrwjh808qdyj/image/small" group-title="Xôi Lạc Z TV" , 🟢 17:00 13/10 🏐 Nữ Incheon Heungkuk vs Nữ IBK (HD TYSON)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-33.flv?auth_key=3000001791889841-0-0-95d0c79a6ba84219820ddd97c8f5eb10
+https://live2.domaincdn.cc/livecdn/channel-33.flv?auth_key=3000001791890695-0-0-6aaef21bc4e8298ff3f3232ca2348ce2
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/lol/team/ednm926hky17ryo/image/small" group-title="Xôi Lạc Z TV" , 🟢 16:00 13/10 🎮 HANJIN BRION vs LGD Gaming (MARTY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
@@ -394,7 +372,7 @@ https://live2.jorvakstreamcache.com/live/channel30.flv
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/lol/team/ednm926hky17ryo/image/small" group-title="Xôi Lạc Z TV" , 🟢 16:00 13/10 🎮 HANJIN BRION vs LGD Gaming (HD MARTY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.domaincdn.cc/livecdn/channel-30.flv?auth_key=3000001791889847-0-0-490a2047763eebccf5fe93e82847352e
+https://live2.domaincdn.cc/livecdn/channel-30.flv?auth_key=3000001791890699-0-0-239bdb3ec521cb43e563b59949b9d7a8
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/23xmvkhddk0qg8n/image/small" group-title="Xôi Lạc Z TV" , 23:45 13/10 ⚽ Sabah FK vs SK Slavia Praha (BRADY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
@@ -523,6 +501,14 @@ https://live2.pro2cdnlive.com/live/channel27.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.pro2cdnlive.com/live/channel-27.flv
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/kdj2ry7t3lpr1zp/image/small" group-title="Xôi Lạc Z TV" , 09:00 14/10 🏀 Sacramento Kings vs Portland Trail Blazers (ALAN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.pro2cdnlive.com/live/channel25.flv
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/kdj2ry7t3lpr1zp/image/small" group-title="Xôi Lạc Z TV" , 09:00 14/10 🏀 Sacramento Kings vs Portland Trail Blazers (HD ALAN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.pro2cdnlive.com/live/channel-25.flv
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/lol/team/ednm926hknw6ryo/image/small" group-title="Xôi Lạc Z TV" , 23:00 13/10 🎮 Movistar KOI Fénix vs Galions (MARTY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
@@ -551,13 +537,13 @@ https://live2.zktsva.app/live/741294.m3u8
 https://live2.zktsva.app/live/301263.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/361260e39f38a6fdd23d64eec1530ba1.png" group-title="Gà Vàng 33 TV" , 🟡 19:00 13/10 ⚽ Arsenal U19 vs Lille U19 (Gà Siêu Nhí) [hls]
 https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/649a85f258f62ec83a62983488e4b347.png" group-title="Gà Vàng 33 TV" , 19:15 13/10 ⚽ Buriram United vs Beijing Guoan (Gà Siêu Gáy) [flv]
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/649a85f258f62ec83a62983488e4b347.png" group-title="Gà Vàng 33 TV" , 🟡 19:15 13/10 ⚽ Buriram United vs Beijing Guoan (Gà Siêu Gáy) [flv]
 https://live2.zktsva.app/live/294335.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/649a85f258f62ec83a62983488e4b347.png" group-title="Gà Vàng 33 TV" , 19:15 13/10 ⚽ Buriram United vs Beijing Guoan (Gà Siêu Gáy) [hls]
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/649a85f258f62ec83a62983488e4b347.png" group-title="Gà Vàng 33 TV" , 🟡 19:15 13/10 ⚽ Buriram United vs Beijing Guoan (Gà Siêu Gáy) [hls]
 https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/9882bbda1cd86a2af4e724f399d1a1c8.png" group-title="Gà Vàng 33 TV" , 19:15 13/10 ⚽ Cong An Ha Noi FC vs Kashima Antlers (Gà Siêu Quỷ) [flv]
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/9882bbda1cd86a2af4e724f399d1a1c8.png" group-title="Gà Vàng 33 TV" , 🟡 19:15 13/10 ⚽ Cong An Ha Noi FC vs Kashima Antlers (Gà Siêu Quỷ) [flv]
 https://live2.zktsva.app/live/304565.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/9882bbda1cd86a2af4e724f399d1a1c8.png" group-title="Gà Vàng 33 TV" , 19:15 13/10 ⚽ Cong An Ha Noi FC vs Kashima Antlers (Gà Siêu Quỷ) [hls]
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/9882bbda1cd86a2af4e724f399d1a1c8.png" group-title="Gà Vàng 33 TV" , 🟡 19:15 13/10 ⚽ Cong An Ha Noi FC vs Kashima Antlers (Gà Siêu Quỷ) [hls]
 https://live2.zktsva.app/live/304565.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/21649c3d173c8f4ec9d526432ad9f088.png" group-title="Gà Vàng 33 TV" , 20:45 13/10 ⚽ East Bengal FC vs Al Shorta (Gà Siêu Mõm) [flv]
 https://live2.zktsva.app/live/300523.flv
@@ -669,17 +655,17 @@ https://live05.zhwpg.app/live/87547578_tsc.flv
 https://live05.zhwpg.app/live/87547578_tsc.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/361260e39f38a6fdd23d64eec1530ba1.png!w80" group-title="Cola TV" , 🟡 19:00 13/10 ⚽ Arsenal U19 vs Tiểu U19 (BLV MOUNTAIN DEW) [hls 2]
 https://live05.miekgo.app/live/87547578_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/f3dde7370cf875e4e657b4331b1b4a31.png!w80" group-title="Cola TV" , 19:15 13/10 ⚽ Cong An Ha Noi FC vs Kashima Antlers (BLV HỔ VẰN) [flv]
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/f3dde7370cf875e4e657b4331b1b4a31.png!w80" group-title="Cola TV" , 🟡 19:15 13/10 ⚽ Cong An Ha Noi FC vs Kashima Antlers (BLV HỔ VẰN) [flv]
 https://live05.zhwpg.app/live/07428422_tsc.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/f3dde7370cf875e4e657b4331b1b4a31.png!w80" group-title="Cola TV" , 19:15 13/10 ⚽ Cong An Ha Noi FC vs Kashima Antlers (BLV HỔ VẰN) [hls]
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/f3dde7370cf875e4e657b4331b1b4a31.png!w80" group-title="Cola TV" , 🟡 19:15 13/10 ⚽ Cong An Ha Noi FC vs Kashima Antlers (BLV HỔ VẰN) [hls]
 https://live05.zhwpg.app/live/07428422_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/f3dde7370cf875e4e657b4331b1b4a31.png!w80" group-title="Cola TV" , 19:15 13/10 ⚽ Cong An Ha Noi FC vs Kashima Antlers (BLV HỔ VẰN) [hls 2]
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/f3dde7370cf875e4e657b4331b1b4a31.png!w80" group-title="Cola TV" , 🟡 19:15 13/10 ⚽ Cong An Ha Noi FC vs Kashima Antlers (BLV HỔ VẰN) [hls 2]
 https://live05.miekgo.app/live/07428422_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/649a85f258f62ec83a62983488e4b347.png!w80" group-title="Cola TV" , 19:15 13/10 ⚽ Buriram vs Beijing Guoan (BLV REVIVE) [flv]
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/649a85f258f62ec83a62983488e4b347.png!w80" group-title="Cola TV" , 🟡 19:15 13/10 ⚽ Buriram vs Beijing Guoan (BLV REVIVE) [flv]
 https://live05.zhwpg.app/live/33982309_tsc.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/649a85f258f62ec83a62983488e4b347.png!w80" group-title="Cola TV" , 19:15 13/10 ⚽ Buriram vs Beijing Guoan (BLV REVIVE) [hls]
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/649a85f258f62ec83a62983488e4b347.png!w80" group-title="Cola TV" , 🟡 19:15 13/10 ⚽ Buriram vs Beijing Guoan (BLV REVIVE) [hls]
 https://live05.zhwpg.app/live/33982309_tsc.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/649a85f258f62ec83a62983488e4b347.png!w80" group-title="Cola TV" , 19:15 13/10 ⚽ Buriram vs Beijing Guoan (BLV REVIVE) [hls 2]
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/649a85f258f62ec83a62983488e4b347.png!w80" group-title="Cola TV" , 🟡 19:15 13/10 ⚽ Buriram vs Beijing Guoan (BLV REVIVE) [hls 2]
 https://live05.miekgo.app/live/33982309_tsc.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/21649c3d173c8f4ec9d526432ad9f088.png!w80" group-title="Cola TV" , 20:45 13/10 ⚽ East Bengal vs CLB AI Shorta (BLV ROCKSTAR) [flv]
 https://live05.zhwpg.app/live/82054853_tsc.flv
@@ -851,61 +837,61 @@ https://live05.zhwpg.app/live/82054853_tsc.m3u8
 https://live05.miekgo.app/live/82054853_tsc.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261011/4d5c4d1aa03d58f271e803969328fbc1.jpeg" group-title="Sút Bóng TV" , 🟢 16:00 13/10 🏀 Bataan Risers vs San Juan Knights (A CHÈ)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=50174e195fc81e9c68e0bfb7b5b170f4&txTime=6ace56ed
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=ecd7cc97c2a456cea4d41feb5a102da8&txTime=6ace66fc
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261011/4d5c4d1aa03d58f271e803969328fbc1.jpeg" group-title="Sút Bóng TV" , 🟢 16:00 13/10 🏀 Bataan Risers vs San Juan Knights (KING)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1791889565-0-0-3c61bb1e2d066532648c67dba83e3d0f
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1791893738-0-0-24e1f9062071777895ec890a2428df94
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/9c89a4ea656ce7f332564c6ce999687d.png" group-title="Sút Bóng TV" , 🟢 17:00 13/10 ⚽ Shanghai Port vs Daejeon Hana Citizen (BLV MESSI)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1791893165-0-0-e839f7978affe77d9f2a9a7b475f997d
+https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1791894065-0-0-da45ff374769793639f49783814125c3
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/9c89a4ea656ce7f332564c6ce999687d.png" group-title="Sút Bóng TV" , 🟢 17:00 13/10 ⚽ Shanghai Port vs Daejeon Hana Citizen (A BỆU)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1791893165-0-0-cdf8069ed0e7503f0e974a6bdd560fca
+https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1791894065-0-0-7d06ad00303bae30eb62549fac63daa2
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/9c89a4ea656ce7f332564c6ce999687d.png" group-title="Sút Bóng TV" , 🟢 17:00 13/10 ⚽ Shanghai Port vs Daejeon Hana Citizen (CURRY)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1791893165-0-0-e44cb732882e326148177c438a3538e3
+https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1791894065-0-0-a82936bc19ac6db854903bca04ace19f
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/2ce5217627edaa369a38b59661894635.png" group-title="Sút Bóng TV" , 🟢 17:00 13/10 ⚽ Kyoto Sanga vs Ratchaburi FC (BLV KAN)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=6927b3a18391fa9e3c8ca9d898609f61&txTime=6ace64fd
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=89d3e8f9af130e876e834b21f3e29745&txTime=6ace6881
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/2ce5217627edaa369a38b59661894635.png" group-title="Sút Bóng TV" , 🟢 17:00 13/10 ⚽ Kyoto Sanga vs Ratchaburi FC (BLV YONE)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
 https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1791860600-0-0-36a111e6969384ce8e6727aa2e6ab4ea
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/2ce5217627edaa369a38b59661894635.png" group-title="Sút Bóng TV" , 🟢 17:00 13/10 ⚽ Kyoto Sanga vs Ratchaburi FC (T REX)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niur.live/live/stream-619672_lhd.m3u8?txSecret=9ed2029af62225f2663604e24b5eb9e3&txTime=6ace64fd
+https://pull.niur.live/live/stream-619672_lhd.m3u8?txSecret=9bdd189654b4a82dd43ee85835dda33d&txTime=6ace68bd
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/2ce5217627edaa369a38b59661894635.png" group-title="Sút Bóng TV" , 🟢 17:00 13/10 ⚽ Kyoto Sanga vs Ratchaburi FC (BLV KAN)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=6927b3a18391fa9e3c8ca9d898609f61&txTime=6ace64fd
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=89d3e8f9af130e876e834b21f3e29745&txTime=6ace6881
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/2ce5217627edaa369a38b59661894635.png" group-title="Sút Bóng TV" , 🟢 17:00 13/10 ⚽ Kyoto Sanga vs Ratchaburi FC (BLV YONE)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
 https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1791860600-0-0-36a111e6969384ce8e6727aa2e6ab4ea
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/2ce5217627edaa369a38b59661894635.png" group-title="Sút Bóng TV" , 🟢 17:00 13/10 ⚽ Kyoto Sanga vs Ratchaburi FC (T REX)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niur.live/live/stream-619672_lhd.m3u8?txSecret=9ed2029af62225f2663604e24b5eb9e3&txTime=6ace64fd
+https://pull.niur.live/live/stream-619672_lhd.m3u8?txSecret=9bdd189654b4a82dd43ee85835dda33d&txTime=6ace68bd
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/2ce5217627edaa369a38b59661894635.png" group-title="Sút Bóng TV" , 🟢 17:00 13/10 ⚽ Kyoto Sanga vs Ratchaburi FC (BLV XO)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=006e2ba1b02f01b6f713602139688a94&txTime=6ace6539
+https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=d07c13ff9f332a813a2b1b262348d4f9&txTime=6ace68bd
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/2ce5217627edaa369a38b59661894635.png" group-title="Sút Bóng TV" , 🟢 17:00 13/10 ⚽ Kyoto Sanga vs Ratchaburi FC (BLV A TINH)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niues.live/live/stream-9912139_lhd.m3u8?auth_key=1791893225-0-0-4ac91227e81d8d6f79e6af9346a56d73
+https://pull.niues.live/live/stream-9912139_lhd.m3u8?auth_key=1791894125-0-0-0be6f6416134426dc11910fccf2d82a7
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/2ce5217627edaa369a38b59661894635.png" group-title="Sút Bóng TV" , 🟢 17:00 13/10 ⚽ Kyoto Sanga vs Ratchaburi FC (BLV HUCK)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
 https://pull.niues.live/live/stream-623653_lhd.m3u8?auth_key=1791802396-0-0-55922b87fa0faa2d92f9ea8d890b79d7
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/2ce5217627edaa369a38b59661894635.png" group-title="Sút Bóng TV" , 🟢 17:00 13/10 ⚽ Kyoto Sanga vs Ratchaburi FC (BLV KAN)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=6927b3a18391fa9e3c8ca9d898609f61&txTime=6ace64fd
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=89d3e8f9af130e876e834b21f3e29745&txTime=6ace6881
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/2ce5217627edaa369a38b59661894635.png" group-title="Sút Bóng TV" , 🟢 17:00 13/10 ⚽ Kyoto Sanga vs Ratchaburi FC (BLV YONE)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
 https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1791860600-0-0-36a111e6969384ce8e6727aa2e6ab4ea
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/2ce5217627edaa369a38b59661894635.png" group-title="Sút Bóng TV" , 🟢 17:00 13/10 ⚽ Kyoto Sanga vs Ratchaburi FC (T REX)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niur.live/live/stream-619672_lhd.m3u8?txSecret=9ed2029af62225f2663604e24b5eb9e3&txTime=6ace64fd
+https://pull.niur.live/live/stream-619672_lhd.m3u8?txSecret=9bdd189654b4a82dd43ee85835dda33d&txTime=6ace68bd
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/2ce5217627edaa369a38b59661894635.png" group-title="Sút Bóng TV" , 🟢 17:00 13/10 ⚽ Kyoto Sanga vs Ratchaburi FC (BLV XO)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=006e2ba1b02f01b6f713602139688a94&txTime=6ace6539
+https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=d07c13ff9f332a813a2b1b262348d4f9&txTime=6ace68bd
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/2ce5217627edaa369a38b59661894635.png" group-title="Sút Bóng TV" , 🟢 17:00 13/10 ⚽ Kyoto Sanga vs Ratchaburi FC (BLV A TINH)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niues.live/live/stream-9912139_lhd.m3u8?auth_key=1791893225-0-0-4ac91227e81d8d6f79e6af9346a56d73
+https://pull.niues.live/live/stream-9912139_lhd.m3u8?auth_key=1791894125-0-0-0be6f6416134426dc11910fccf2d82a7
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/2ce5217627edaa369a38b59661894635.png" group-title="Sút Bóng TV" , 🟢 17:00 13/10 ⚽ Kyoto Sanga vs Ratchaburi FC (BLV HUCK)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
 https://pull.niues.live/live/stream-623653_lhd.m3u8?auth_key=1791802396-0-0-55922b87fa0faa2d92f9ea8d890b79d7
@@ -914,106 +900,154 @@ https://pull.niues.live/live/stream-623653_lhd.m3u8?auth_key=1791802396-0-0-5592
 https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=9c9bd4850d538ec6964f043bfcc92af6&txTime=6acd8146
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/cd00acaabb858b3f8c20401307e94cef.png" group-title="Sút Bóng TV" , 🟢 17:00 13/10 ⚽ Pohang Steelers vs Johor Darul Ta'zim FC (ZIDANE)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1791893225-0-0-88336f357ace1d143ebcb612e7a43192
+https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1791894125-0-0-9fed1b525e173597e58969a261b8a4c2
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/cd00acaabb858b3f8c20401307e94cef.png" group-title="Sút Bóng TV" , 🟢 17:00 13/10 ⚽ Pohang Steelers vs Johor Darul Ta'zim FC (RICKHANTER)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1791893225-0-0-a43a619ebbd4cf5a4569d296672c5b2a
+https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1791894185-0-0-2f9463fe8c6a4d048fe8488483f46eb1
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/cd00acaabb858b3f8c20401307e94cef.png" group-title="Sút Bóng TV" , 🟢 17:00 13/10 ⚽ Pohang Steelers vs Johor Darul Ta'zim FC (BLV TAP)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
 https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=9c9bd4850d538ec6964f043bfcc92af6&txTime=6acd8146
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/cd00acaabb858b3f8c20401307e94cef.png" group-title="Sút Bóng TV" , 🟢 17:00 13/10 ⚽ Pohang Steelers vs Johor Darul Ta'zim FC (ZIDANE)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1791893225-0-0-88336f357ace1d143ebcb612e7a43192
+https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1791894125-0-0-9fed1b525e173597e58969a261b8a4c2
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/cd00acaabb858b3f8c20401307e94cef.png" group-title="Sút Bóng TV" , 🟢 17:00 13/10 ⚽ Pohang Steelers vs Johor Darul Ta'zim FC (RICKHANTER)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1791893225-0-0-a43a619ebbd4cf5a4569d296672c5b2a
+https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1791894185-0-0-2f9463fe8c6a4d048fe8488483f46eb1
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/cd00acaabb858b3f8c20401307e94cef.png" group-title="Sút Bóng TV" , 🟢 17:00 13/10 ⚽ Pohang Steelers vs Johor Darul Ta'zim FC (BLV TOMIA)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1791889625-0-0-639aa860d69285a13efb56aa4322a245
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1791894185-0-0-0ec3a9c72c65abb1a771818b5d8353b3
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/cd00acaabb858b3f8c20401307e94cef.png" group-title="Sút Bóng TV" , 🟢 17:00 13/10 ⚽ Pohang Steelers vs Johor Darul Ta'zim FC (TẠ BIÊN GIỚI)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1791893225-0-0-e3342dbe77eb08dfb928dcfcdd0b545c
+https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1791894185-0-0-3220a494342fbcd1d947b17f968e4f90
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/cd00acaabb858b3f8c20401307e94cef.png" group-title="Sút Bóng TV" , 🟢 17:00 13/10 ⚽ Pohang Steelers vs Johor Darul Ta'zim FC (A MÂN)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1791889625-0-0-8507068c949ea243a3e159c37aa42d14
+https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1791894185-0-0-977410c0b7780c68770f1f3958535a74
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/cd00acaabb858b3f8c20401307e94cef.png" group-title="Sút Bóng TV" , 🟢 17:00 13/10 ⚽ Pohang Steelers vs Johor Darul Ta'zim FC (BLV TAP)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
 https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=9c9bd4850d538ec6964f043bfcc92af6&txTime=6acd8146
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/cd00acaabb858b3f8c20401307e94cef.png" group-title="Sút Bóng TV" , 🟢 17:00 13/10 ⚽ Pohang Steelers vs Johor Darul Ta'zim FC (ZIDANE)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1791893225-0-0-88336f357ace1d143ebcb612e7a43192
+https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1791894125-0-0-9fed1b525e173597e58969a261b8a4c2
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/cd00acaabb858b3f8c20401307e94cef.png" group-title="Sút Bóng TV" , 🟢 17:00 13/10 ⚽ Pohang Steelers vs Johor Darul Ta'zim FC (RICKHANTER)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1791893225-0-0-a43a619ebbd4cf5a4569d296672c5b2a
+https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1791894185-0-0-2f9463fe8c6a4d048fe8488483f46eb1
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/cd00acaabb858b3f8c20401307e94cef.png" group-title="Sút Bóng TV" , 🟢 17:00 13/10 ⚽ Pohang Steelers vs Johor Darul Ta'zim FC (BLV TOMIA)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1791889625-0-0-639aa860d69285a13efb56aa4322a245
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1791894185-0-0-0ec3a9c72c65abb1a771818b5d8353b3
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/cd00acaabb858b3f8c20401307e94cef.png" group-title="Sút Bóng TV" , 🟢 17:00 13/10 ⚽ Pohang Steelers vs Johor Darul Ta'zim FC (TẠ BIÊN GIỚI)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1791893225-0-0-e3342dbe77eb08dfb928dcfcdd0b545c
+https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1791894185-0-0-3220a494342fbcd1d947b17f968e4f90
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/cd00acaabb858b3f8c20401307e94cef.png" group-title="Sút Bóng TV" , 🟢 17:00 13/10 ⚽ Pohang Steelers vs Johor Darul Ta'zim FC (A MÂN)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1791889625-0-0-8507068c949ea243a3e159c37aa42d14
+https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1791894185-0-0-977410c0b7780c68770f1f3958535a74
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/cd00acaabb858b3f8c20401307e94cef.png" group-title="Sút Bóng TV" , 🟢 17:00 13/10 ⚽ Pohang Steelers vs Johor Darul Ta'zim FC (BLV TAP)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
 https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=9c9bd4850d538ec6964f043bfcc92af6&txTime=6acd8146
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/cd00acaabb858b3f8c20401307e94cef.png" group-title="Sút Bóng TV" , 🟢 17:00 13/10 ⚽ Pohang Steelers vs Johor Darul Ta'zim FC (ZIDANE)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1791893225-0-0-88336f357ace1d143ebcb612e7a43192
+https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1791894125-0-0-9fed1b525e173597e58969a261b8a4c2
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/cd00acaabb858b3f8c20401307e94cef.png" group-title="Sút Bóng TV" , 🟢 17:00 13/10 ⚽ Pohang Steelers vs Johor Darul Ta'zim FC (RICKHANTER)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1791893225-0-0-a43a619ebbd4cf5a4569d296672c5b2a
+https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1791894185-0-0-2f9463fe8c6a4d048fe8488483f46eb1
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/cd00acaabb858b3f8c20401307e94cef.png" group-title="Sút Bóng TV" , 🟢 17:00 13/10 ⚽ Pohang Steelers vs Johor Darul Ta'zim FC (BLV TOMIA)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1791889625-0-0-639aa860d69285a13efb56aa4322a245
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1791894185-0-0-0ec3a9c72c65abb1a771818b5d8353b3
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/cd00acaabb858b3f8c20401307e94cef.png" group-title="Sút Bóng TV" , 🟢 17:00 13/10 ⚽ Pohang Steelers vs Johor Darul Ta'zim FC (TẠ BIÊN GIỚI)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1791893225-0-0-e3342dbe77eb08dfb928dcfcdd0b545c
+https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1791894185-0-0-3220a494342fbcd1d947b17f968e4f90
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/cd00acaabb858b3f8c20401307e94cef.png" group-title="Sút Bóng TV" , 🟢 17:00 13/10 ⚽ Pohang Steelers vs Johor Darul Ta'zim FC (A MÂN)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1791889625-0-0-8507068c949ea243a3e159c37aa42d14
+https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1791894185-0-0-977410c0b7780c68770f1f3958535a74
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/9c89a4ea656ce7f332564c6ce999687d.png" group-title="Sút Bóng TV" , 🟢 17:00 13/10 ⚽ Shanghai Port vs Daejeon Hana Citizen (BLV MESSI)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1791893165-0-0-e839f7978affe77d9f2a9a7b475f997d
+https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1791894065-0-0-da45ff374769793639f49783814125c3
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/9c89a4ea656ce7f332564c6ce999687d.png" group-title="Sút Bóng TV" , 🟢 17:00 13/10 ⚽ Shanghai Port vs Daejeon Hana Citizen (A BỆU)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1791893165-0-0-cdf8069ed0e7503f0e974a6bdd560fca
+https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1791894065-0-0-7d06ad00303bae30eb62549fac63daa2
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/9c89a4ea656ce7f332564c6ce999687d.png" group-title="Sút Bóng TV" , 🟢 17:00 13/10 ⚽ Shanghai Port vs Daejeon Hana Citizen (CURRY)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1791893165-0-0-e44cb732882e326148177c438a3538e3
+https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1791894065-0-0-a82936bc19ac6db854903bca04ace19f
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/9c89a4ea656ce7f332564c6ce999687d.png" group-title="Sút Bóng TV" , 🟢 17:00 13/10 ⚽ Shanghai Port vs Daejeon Hana Citizen (BLV HEHE)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1791889685-0-0-bdfe7e411cfb8eb04d0c90fcd778f25d
+https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1791894185-0-0-665eb1cbc3e93d28824cd58f71a61757
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/9c89a4ea656ce7f332564c6ce999687d.png" group-title="Sút Bóng TV" , 🟢 17:00 13/10 ⚽ Shanghai Port vs Daejeon Hana Citizen (THOMAS)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=7e882191cd5b052fb23c4ba325e24172&txTime=6ace6575
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=1a3b0181329836fc7effc37a08edf94d&txTime=6ace68f9
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/9c89a4ea656ce7f332564c6ce999687d.png" group-title="Sút Bóng TV" , 🟢 17:00 13/10 ⚽ Shanghai Port vs Daejeon Hana Citizen (SAO LA)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=ca4ddb2991c4b578a4198600c7eb374f&txTime=6ace6575
+https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=c7b4ec533eea6f9185d71b9eea368f14&txTime=6ace6935
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/9c89a4ea656ce7f332564c6ce999687d.png" group-title="Sút Bóng TV" , 🟢 17:00 13/10 ⚽ Shanghai Port vs Daejeon Hana Citizen (BLV MESSI)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1791893165-0-0-e839f7978affe77d9f2a9a7b475f997d
+https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1791894065-0-0-da45ff374769793639f49783814125c3
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/9c89a4ea656ce7f332564c6ce999687d.png" group-title="Sút Bóng TV" , 🟢 17:00 13/10 ⚽ Shanghai Port vs Daejeon Hana Citizen (A BỆU)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1791893165-0-0-cdf8069ed0e7503f0e974a6bdd560fca
+https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1791894065-0-0-7d06ad00303bae30eb62549fac63daa2
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/9c89a4ea656ce7f332564c6ce999687d.png" group-title="Sút Bóng TV" , 🟢 17:00 13/10 ⚽ Shanghai Port vs Daejeon Hana Citizen (CURRY)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1791893165-0-0-e44cb732882e326148177c438a3538e3
+https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1791894065-0-0-a82936bc19ac6db854903bca04ace19f
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/9c89a4ea656ce7f332564c6ce999687d.png" group-title="Sút Bóng TV" , 🟢 17:00 13/10 ⚽ Shanghai Port vs Daejeon Hana Citizen (BLV HEHE)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1791889685-0-0-bdfe7e411cfb8eb04d0c90fcd778f25d
+https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1791894185-0-0-665eb1cbc3e93d28824cd58f71a61757
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/9c89a4ea656ce7f332564c6ce999687d.png" group-title="Sút Bóng TV" , 🟢 17:00 13/10 ⚽ Shanghai Port vs Daejeon Hana Citizen (THOMAS)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=7e882191cd5b052fb23c4ba325e24172&txTime=6ace6575
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=1a3b0181329836fc7effc37a08edf94d&txTime=6ace68f9
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/9c89a4ea656ce7f332564c6ce999687d.png" group-title="Sút Bóng TV" , 🟢 17:00 13/10 ⚽ Shanghai Port vs Daejeon Hana Citizen (SAO LA)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=ca4ddb2991c4b578a4198600c7eb374f&txTime=6ace6575
+https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=c7b4ec533eea6f9185d71b9eea368f14&txTime=6ace6935
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261011/957291211b0dbf45e2a45a2c77f37710.png" group-title="Sút Bóng TV" , 🟢 17:00 13/10 🏀 Anyang JungKwanJang vs Goyang Sono (BRIAN)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1791889685-0-0-d0d10e1b742bd7edd2727682101bf8fc
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1791894245-0-0-7b69bd3b859cd75c51262287946fab47
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261011/957291211b0dbf45e2a45a2c77f37710.png" group-title="Sút Bóng TV" , 🟢 17:00 13/10 🏀 Anyang JungKwanJang vs Goyang Sono (BLV HENRY)
 #EXTVLCOPT:http-referrer=https://sutbong-tv.net/
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1791889685-0-0-c2dd16a831ce8c3fc2b50782479a0480
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1791894245-0-0-c94225a903133d73329914c5bad7cb77
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/b4b2514e72115cdd225a1ddd1fc671e1.png" group-title="Sút Bóng TV" , 🟢 18:30 13/10 ⚽ Bandirmaspor vs Sivasspor (BLV GIÓ)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=aae02201a62010cf2c637a8e6623c25d&txTime=6ace6935
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/b4b2514e72115cdd225a1ddd1fc671e1.png" group-title="Sút Bóng TV" , 🟢 18:30 13/10 ⚽ Bandirmaspor vs Sivasspor (TRÀ ĐÁ)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1791894245-0-0-282d726f162b545c17cab022fb9fb1b9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/b4b2514e72115cdd225a1ddd1fc671e1.png" group-title="Sút Bóng TV" , 🟢 18:30 13/10 ⚽ Bandirmaspor vs Sivasspor (BLV VIP)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=0689a414141e85dde8e6275c2794e4d0&txTime=6ace6935
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/b4b2514e72115cdd225a1ddd1fc671e1.png" group-title="Sút Bóng TV" , 🟢 18:30 13/10 ⚽ Bandirmaspor vs Sivasspor (BLV GIÓ)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=aae02201a62010cf2c637a8e6623c25d&txTime=6ace6935
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/b4b2514e72115cdd225a1ddd1fc671e1.png" group-title="Sút Bóng TV" , 🟢 18:30 13/10 ⚽ Bandirmaspor vs Sivasspor (TRÀ ĐÁ)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1791894245-0-0-282d726f162b545c17cab022fb9fb1b9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/b4b2514e72115cdd225a1ddd1fc671e1.png" group-title="Sút Bóng TV" , 🟢 18:30 13/10 ⚽ Bandirmaspor vs Sivasspor (BLV VIP)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=0689a414141e85dde8e6275c2794e4d0&txTime=6ace6935
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/b4b2514e72115cdd225a1ddd1fc671e1.png" group-title="Sút Bóng TV" , 🟢 18:30 13/10 ⚽ Bandirmaspor vs Sivasspor (XUÂN SON)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=11ddb7d5805ed8725a7d7a9899c949cb&txTime=6ace6935
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/b4b2514e72115cdd225a1ddd1fc671e1.png" group-title="Sút Bóng TV" , 🟢 18:30 13/10 ⚽ Bandirmaspor vs Sivasspor (BLV GIÓ)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=aae02201a62010cf2c637a8e6623c25d&txTime=6ace6935
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/b4b2514e72115cdd225a1ddd1fc671e1.png" group-title="Sút Bóng TV" , 🟢 18:30 13/10 ⚽ Bandirmaspor vs Sivasspor (TRÀ ĐÁ)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1791894245-0-0-282d726f162b545c17cab022fb9fb1b9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/b4b2514e72115cdd225a1ddd1fc671e1.png" group-title="Sút Bóng TV" , 🟢 18:30 13/10 ⚽ Bandirmaspor vs Sivasspor (BLV VIP)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=0689a414141e85dde8e6275c2794e4d0&txTime=6ace6935
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/b4b2514e72115cdd225a1ddd1fc671e1.png" group-title="Sút Bóng TV" , 🟢 18:30 13/10 ⚽ Bandirmaspor vs Sivasspor (XUÂN SON)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=11ddb7d5805ed8725a7d7a9899c949cb&txTime=6ace6935
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/b4b2514e72115cdd225a1ddd1fc671e1.png" group-title="Sút Bóng TV" , 🟢 18:30 13/10 ⚽ Bandirmaspor vs Sivasspor (BLV GIÓ)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=aae02201a62010cf2c637a8e6623c25d&txTime=6ace6935
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/b4b2514e72115cdd225a1ddd1fc671e1.png" group-title="Sút Bóng TV" , 🟢 18:30 13/10 ⚽ Bandirmaspor vs Sivasspor (TRÀ ĐÁ)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1791894245-0-0-282d726f162b545c17cab022fb9fb1b9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/b4b2514e72115cdd225a1ddd1fc671e1.png" group-title="Sút Bóng TV" , 🟢 18:30 13/10 ⚽ Bandirmaspor vs Sivasspor (BLV VIP)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=0689a414141e85dde8e6275c2794e4d0&txTime=6ace6935
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261010/b4b2514e72115cdd225a1ddd1fc671e1.png" group-title="Sút Bóng TV" , 🟢 18:30 13/10 ⚽ Bandirmaspor vs Sivasspor (XUÂN SON)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=11ddb7d5805ed8725a7d7a9899c949cb&txTime=6ace6935
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20261011/cf3a4ba8f6b79b0f78ceaef9bf217d06.jpeg" group-title="Sút Bóng TV" , 🟢 18:30 13/10 🏀 Meralco Bolts vs Blackwater Bossing (HUNTER)
+#EXTVLCOPT:http-referrer=https://sutbong-tv.net/
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=95571077d6c9a04ec963f9bcfdf382b0&txTime=6ace6971
 #EXTINF:-1 tvg-logo="https://static.sportsfeed.pro/football/team/c4e143e537412003565cdb7c2d212538.png" group-title="Gà Vàng 24h TV" , 🟢 17:00 13/10 ⚽ Shanghai Port FC vs Daejeon Citizen (Siêu Quậy) [hls]
 https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8
 #EXTINF:-1 tvg-logo="https://static.sportsfeed.pro/football/team/c4e143e537412003565cdb7c2d212538.png" group-title="Gà Vàng 24h TV" , 🟢 17:00 13/10 ⚽ Shanghai Port FC vs Daejeon Citizen (Siêu Quậy) [flv]
@@ -1047,11 +1081,11 @@ https://playback.livetl002.com/live/69d37c3a4da3e15776b6db56.m3u8
 #EXTINF:-1 tvg-logo="https://static.sportsfeed.pro/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png" group-title="Gà Vàng 24h TV" , 06:00 14/10 🏀 Toronto Raptors vs New York Knicks (Titan) [flv]
 https://playback.livetl002.com/live/69d37c3a4da3e15776b6db56.flv
 #EXTINF:-1 tvg-logo="https://xoigac.top/images/football/teams/836.webp" group-title="Xôi Gấc TV" , 🟢 17:00 13/10 ⚽ SHANGHAI SIPG vs Daejeon Citizen (Phan Pepsi)
-https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.fUVPQyqsNcAw.m3u8?expires=1791903931&signature=5sRXne1VdUwH6-cE8pkedwOm0t2oi7mbxOaHUCyEgus
+https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.fUVPQyqsNcAw.m3u8?expires=1791904827&signature=IGVcF4_QwqcvPYIpxHCAG1Ca4t-3nDQtDN9HbbikZz0
 #EXTINF:-1 tvg-logo="https://xoigac.top/images/football/teams/2764.webp" group-title="Xôi Gấc TV" , 🟢 17:00 13/10 ⚽ Pohang Steelers vs Johor Darul Takzim FC (Venom)
-https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.ctFVc5QsTbud.m3u8?expires=1791903933&signature=DWHyD1npKZl7eIFPFiLkN2FEvPgAS8ElS3xqvvMBt7g
+https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.ctFVc5QsTbud.m3u8?expires=1791904829&signature=NuRLo87zGJGoV-2_b0Eolq9vsMOilGpU98Qnyvs1Wh4
 #EXTINF:-1 tvg-logo="https://xoigac.top/images/football/teams/302.webp" group-title="Xôi Gấc TV" , 🟢 17:00 13/10 ⚽ Kyoto Sanga vs Ratchaburi (Raccoon)
-https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.ThjPRSNCIEp8.m3u8?expires=1791903936&signature=jvvLY8N1pTfXziDn7A--8F_UBV6eHULWi7QYhvt4TKs
+https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.ThjPRSNCIEp8.m3u8?expires=1791904831&signature=d983RGF5RPIVjZ-bH_nyafshr49yQpl3NIZe6vmt-Jk
 #EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/6f05c460789939ac83282bd0686446f1.png" group-title="Phá Làng TV" , 🟢 17:00 13/10 ⚽ Pohang Steelers vs Johor Darul Ta'zim FC (LÝ LIỀU LĨNH) [geo]
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/0409d35fe93d47af98ddc57ab0e02240/index.m3u8
@@ -1088,22 +1122,22 @@ https://pull1.digitalcdn.net/live/c8bf4ebaca304258b91c167bcdae22a4/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/9dbbcf5ac9247c588c24a99cc0a0e8f5.png" group-title="Phá Làng TV" , 🟢 18:30 13/10 ⚽ Bandirmaspor vs Sivasspor (Nhà đài)
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://lilive1.eu.cc/live/4dd71e53f1d75ead6f7d73c9691013b2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/9882bbda1cd86a2af4e724f399d1a1c8.png" group-title="Phá Làng TV" , 19:15 13/10 ⚽ Cong An Ha Noi FC vs Kashima Antlers (LÝ LỀNH) [geo]
+#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/9882bbda1cd86a2af4e724f399d1a1c8.png" group-title="Phá Làng TV" , 🟡 19:15 13/10 ⚽ Cong An Ha Noi FC vs Kashima Antlers (LÝ LỀNH) [geo]
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/4ab2061c08204672afc45c0cb0f9f982/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/9882bbda1cd86a2af4e724f399d1a1c8.png" group-title="Phá Làng TV" , 19:15 13/10 ⚽ Cong An Ha Noi FC vs Kashima Antlers (LÝ LỀNH) (HD2) [geo]
+#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/9882bbda1cd86a2af4e724f399d1a1c8.png" group-title="Phá Làng TV" , 🟡 19:15 13/10 ⚽ Cong An Ha Noi FC vs Kashima Antlers (LÝ LỀNH) (HD2) [geo]
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull1.digitalcdn.net/live/4ab2061c08204672afc45c0cb0f9f982/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/9882bbda1cd86a2af4e724f399d1a1c8.png" group-title="Phá Làng TV" , 19:15 13/10 ⚽ Cong An Ha Noi FC vs Kashima Antlers (Nhà đài)
+#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/9882bbda1cd86a2af4e724f399d1a1c8.png" group-title="Phá Làng TV" , 🟡 19:15 13/10 ⚽ Cong An Ha Noi FC vs Kashima Antlers (Nhà đài)
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://lilive1.eu.cc/live/2c13b33ed6430c60da37ee2a092ee259/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/649a85f258f62ec83a62983488e4b347.png" group-title="Phá Làng TV" , 19:15 13/10 ⚽ Buriram United vs Beijing Guoan (LÝ LÀNG LÁ) [geo]
+#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/649a85f258f62ec83a62983488e4b347.png" group-title="Phá Làng TV" , 🟡 19:15 13/10 ⚽ Buriram United vs Beijing Guoan (LÝ LÀNG LÁ) [geo]
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/f3e21460540a4b3fbf372415428549a5/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/649a85f258f62ec83a62983488e4b347.png" group-title="Phá Làng TV" , 19:15 13/10 ⚽ Buriram United vs Beijing Guoan (LÝ LÀNG LÁ) (HD2) [geo]
+#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/649a85f258f62ec83a62983488e4b347.png" group-title="Phá Làng TV" , 🟡 19:15 13/10 ⚽ Buriram United vs Beijing Guoan (LÝ LÀNG LÁ) (HD2) [geo]
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull1.digitalcdn.net/live/f3e21460540a4b3fbf372415428549a5/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/649a85f258f62ec83a62983488e4b347.png" group-title="Phá Làng TV" , 19:15 13/10 ⚽ Buriram United vs Beijing Guoan (Nhà đài)
+#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/649a85f258f62ec83a62983488e4b347.png" group-title="Phá Làng TV" , 🟡 19:15 13/10 ⚽ Buriram United vs Beijing Guoan (Nhà đài)
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://lilive1.eu.cc/live/be07c6dfeb23ae02ab8e4724e6293874/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/21649c3d173c8f4ec9d526432ad9f088.png" group-title="Phá Làng TV" , 20:45 13/10 ⚽ East Bengal FC vs Al Shorta (LÝ LIỀU LĨNH) [geo]
